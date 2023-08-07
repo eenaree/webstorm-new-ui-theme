@@ -1,0 +1,34 @@
+{
+  "name": "webstorm-new-dark",
+  "displayName": "Webstorm New Dark Theme",
+  "version": "1.0.0",
+  "publisher": "eenaree",
+  "description": "combine Webstorm Darcula Theme with New UI color",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "jetbrains",
+    "intellij",
+    "new dark",
+    "webstorm"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Webstorm New Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new-dark-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eenaree/new-dark-theme.git"
+  }
+}
