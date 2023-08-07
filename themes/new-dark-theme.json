@@ -280,7 +280,8 @@
         "constant.language.import-export-all",
         "string variable",
         "source.yaml string.unquoted",
-        "source.yaml constant.language.boolean"
+        "source.yaml constant.language.boolean",
+        "punctuation.accessor"
       ],
       "settings": {
         "foreground": "#BDC0C9"
