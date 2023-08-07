@@ -317,10 +317,10 @@
       }
     },
     {
-      "name": "typescript template literals expression",
+      "name": "variable in Template literal",
       "scope": [
-        "punctuation.definition.template-expression.begin.ts",
-        "punctuation.definition.template-expression.end.ts"
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end"
       ],
       "settings": {
         "foreground": "#ff9da4"
