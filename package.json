@@ -1,7 +1,7 @@
 {
   "name": "webstorm-new-dark",
   "displayName": "Webstorm New Dark Theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "eenaree",
   "description": "combine Webstorm Darcula Theme with New UI color",
   "engines": {
