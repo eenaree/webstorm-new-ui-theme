@@ -218,6 +218,8 @@
     {
       "scope": [
         "keyword",
+        "keyword.operator.new",
+        "keyword.operator.expression",
         "storage",
         "storage.type",
         "meta.type",
@@ -281,7 +283,8 @@
         "string variable",
         "source.yaml string.unquoted",
         "source.yaml constant.language.boolean",
-        "punctuation.accessor"
+        "punctuation.accessor",
+        "keyword.operator"
       ],
       "settings": {
         "foreground": "#BDC0C9"
