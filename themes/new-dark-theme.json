@@ -188,7 +188,7 @@
       "fontStyle": "italic"
     },
     "property.defaultLibrary": {
-      "foreground": "#cf84cf"
+      "foreground": "#14c4b6"
     }
   },
   "tokenColors": [
@@ -238,12 +238,6 @@
       }
     },
     {
-      "scope": ["support"],
-      "settings": {
-        "foreground": "#14C4B6"
-      }
-    },
-    {
       "scope": [
         "constant",
         "entity.name.constant",
@@ -254,7 +248,8 @@
         "meta.object-literal.key",
         "meta.definition.property",
         "meta.definition.property entity.name.function",
-        "support.type.property-name.json"
+        "support.type.property-name.json",
+        "support.variable.property"
       ],
       "settings": {
         "foreground": "#CF84CF"
