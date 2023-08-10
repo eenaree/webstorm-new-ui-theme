@@ -2,6 +2,12 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.0 (2023-08-10)
+
+- add jsx component highlighting ([3b09e81](https://github.com/eenaree/new-dark-theme/commit/3b09e8139dee3c9895ac8785761a824ed184da9d))
+- add markdown syntax highlighting ([ce3423e](https://github.com/eenaree/new-dark-theme/commit/ce3423e9c60d171cbd2d13b240670ea3e0438b9c))
+- remove class.declaration color ([1f6403d](https://github.com/eenaree/new-dark-theme/commit/1f6403dcff1e53823a5b28190f049ca90bdb8774))
+
 ## 1.0.2 (2023-08-09)
 
 - change property color to differentiate support property ([c4404cf](https://github.com/eenaree/new-dark-theme/commit/c4404cf7ccde6303b782b8eab50568329116f46a))
