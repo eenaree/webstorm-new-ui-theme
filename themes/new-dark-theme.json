@@ -180,9 +180,6 @@
     "class": {
       "foreground": "#70aeff"
     },
-    "class.declaration": {
-      "foreground": "#bdc0c9"
-    },
     "class.defaultLibrary": {
       "foreground": "#cf84cf",
       "fontStyle": "italic"
