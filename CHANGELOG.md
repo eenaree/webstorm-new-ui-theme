@@ -2,6 +2,10 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.1 (2023-08-16)
+
+- change markdown heading's highlighting color ([16708a6](https://github.com/eenaree/new-dark-theme/commit/16708a64193ff2904309560d46c07e53d78e7676))
+
 ## 1.1.0 (2023-08-10)
 
 - add jsx component highlighting ([3b09e81](https://github.com/eenaree/new-dark-theme/commit/3b09e8139dee3c9895ac8785761a824ed184da9d))
