@@ -316,19 +316,6 @@
       }
     },
     {
-      "scope": [
-        "storage.type.annotation",
-        "punctuation.definition.entity",
-        "variable.interpolation",
-        "meta.property-list",
-        "entity.other.attribute-name.class",
-        "meta.decorator entity.name.function"
-      ],
-      "settings": {
-        "foreground": "#B3AE60"
-      }
-    },
-    {
       "scope": ["entity.name.function", "markup.inline.raw"],
       "settings": {
         "foreground": "#70AEFF"
@@ -346,8 +333,16 @@
       }
     },
     {
-      "name": "html token",
-      "scope": ["entity.name.tag", "punctuation.definition.tag"],
+      "scope": [
+        "entity.name.tag",
+        "entity.other.attribute-name.class",
+        "punctuation.definition.tag",
+        "punctuation.definition.entity",
+        "storage.type.annotation",
+        "variable.interpolation",
+        "meta.property-list",
+        "meta.decorator entity.name.function"
+      ],
       "settings": {
         "foreground": "#d5b778"
       }
