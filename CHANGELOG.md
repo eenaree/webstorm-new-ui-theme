@@ -2,6 +2,12 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.2 (2023-08-18)
+
+- improve colors for bracket and search match string ([8b071a6](https://github.com/eenaree/new-dark-theme/commit/8b071a6883be32b2e2e79fddf502b840c58d26cb))
+- improve color scheme for diff editor, merge conflict, and editor gutter line to match WebStorm's new UI ([7a14470](https://github.com/eenaree/new-dark-theme/commit/7a144709a60533fd49e5661e2409ef292a9167d4))
+- update selectors from `#b3ae60` color scope to `#d5b778` color scope for consistency ([779d9a8](https://github.com/eenaree/new-dark-theme/commit/779d9a8ab1d2ddbf0f15df3e8e63b24fd0854a6b))
+
 ## 1.1.1 (2023-08-16)
 
 - change markdown heading's highlighting color ([16708a6](https://github.com/eenaree/new-dark-theme/commit/16708a64193ff2904309560d46c07e53d78e7676))
