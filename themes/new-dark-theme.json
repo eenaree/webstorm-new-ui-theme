@@ -67,6 +67,16 @@
     "merge.incomingHeaderBackground": "#43698d",
     "merge.incomingContentBackground": "#385570",
 
+    "gitDecoration.addedResourceForeground": "#629755",
+    "gitDecoration.modifiedResourceForeground": "#6897bb",
+    "gitDecoration.deletedResourceForeground": "#6c6c6c",
+    "gitDecoration.renamedResourceForeground": "#007c7c",
+    "gitDecoration.stageModifiedResourceForeground": "#6897bb",
+    "gitDecoration.stageDeletedResourceForeground": "#6c6c6c",
+    "gitDecoration.untrackedResourceForeground": "#d1675a",
+    "gitDecoration.ignoredResourceForeground": "#848504",
+    "gitDecoration.conflictingResourceForeground": "#d5756c",
+
     "input.border": "#323232",
     "input.background": "#44494a",
     "input.foreground": "#bababa",
