@@ -283,7 +283,10 @@
         "string",
         "punctuation.definition.metadata.markdown",
         "markup.inline.raw",
-        "markup.quote"
+        "markup.quote",
+        "punctuation.separator.key-value.html",
+        "support.constant",
+        "keyword.other.unit"
       ],
       "settings": {
         "foreground": "#6CAB74"
@@ -307,7 +310,10 @@
         "source.yaml string.unquoted",
         "source.yaml constant.language.boolean",
         "punctuation.accessor",
-        "keyword.operator"
+        "keyword.operator",
+        "punctuation.definition.entity",
+        "punctuation.separator.key-value",
+        "punctuation.separator.list.comma.css"
       ],
       "settings": {
         "foreground": "#BDC0C9"
@@ -357,13 +363,17 @@
     {
       "scope": [
         "entity.name.tag",
+        "entity.other.attribute-name.id",
+        "entity.other.attribute-name.id punctuation.definition.entity",
         "entity.other.attribute-name.class",
+        "entity.other.attribute-name.pseudo-class",
+        "entity.other.attribute-name.pseudo-element",
         "punctuation.definition.tag",
-        "punctuation.definition.entity",
         "storage.type.annotation",
         "variable.interpolation",
-        "meta.property-list",
-        "meta.decorator entity.name.function"
+        "variable.argument.css",
+        "meta.decorator entity.name.function",
+        "meta.property-value.css"
       ],
       "settings": {
         "foreground": "#d5b778"
