@@ -2,6 +2,14 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.3 (2023-08-20)
+
+- improve find, selection, word highlight to match Webstorm ([fce6605](https://github.com/eenaree/new-dark-theme/commit/fce66054fac5903f4f03d1464ac3c39af99a8fd3))
+- improve color for git resources to match Webstorm ([b7085b3](https://github.com/eenaree/new-dark-theme/commit/b7085b38353c5b8761f23fd57d484e1bee2cd023))
+- improve html, css syntax highlight to match WebStorm ([c69f31b](https://github.com/eenaree/new-dark-theme/commit/c69f31b1ed2bed88d898c357ea4d3dd79f994692))
+- improve markdown syntax highlight to match WebStorm ([befa0b8](https://github.com/eenaree/new-dark-theme/commit/befa0b8d113ed1d87085184ef480aa2fc23b4d09))
+- fix diff editor's background color ([e804a0b](https://github.com/eenaree/new-dark-theme/commit/e804a0b6f2c42c9bf136346b0d8506d61a234fe2))
+
 ## 1.1.2 (2023-08-18)
 
 - improve colors for bracket and search match string ([8b071a6](https://github.com/eenaree/new-dark-theme/commit/8b071a6883be32b2e2e79fddf502b840c58d26cb))
