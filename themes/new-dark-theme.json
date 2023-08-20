@@ -38,13 +38,15 @@
 
     "editor.findMatchBackground": "#214283",
     "editor.findMatchBorder": "#bbbbbb",
-    "editor.findMatchHighlightBackground": "#165e70",
-    "editor.findMatchHighlightBorder": "#5cd67e33",
+    "editor.findMatchHighlightBackground": "#32593d",
+    "editor.findMatchHighlightBorder": "#3c704b",
+    "editor.findRangeHighlightBackground": "#1e4684",
     "editor.lineHighlightBackground": "#323232",
-
     "editor.selectionBackground": "#214283",
-    "editor.inactiveSelectionBackground": "#185adc80",
-    "editor.selectionHighlightBackground": "#47713d4d",
+    "editor.inactiveSelectionBackground": "#1e4684",
+    "editor.selectionHighlightBackground": "#32593d",
+    "editor.wordHighlightBackground": "#344134",
+    "editor.wordHighlightStrongBackground": "#40332b",
 
     "editorBracketHighlight.foreground1": "#ffc0cb",
     "editorBracketHighlight.foreground2": "#9ef96a",
