@@ -2,6 +2,13 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.4 (2023-08-25)
+
+- improve syntax highlight for type, interface, function, method, and property using semantic token colors ([eff7c2e](https://github.com/eenaree/new-dark-theme/commit/eff7c2ee643ecf6a1d3cd2867f4a087bf1804322))
+- add bold style to variable and class's default library ([850a777](https://github.com/eenaree/new-dark-theme/commit/850a77746a89fd3945789aa69afb9ac77b317778))
+- fix supported css's color highlight to consistent color ([4c495fe](https://github.com/eenaree/new-dark-theme/commit/4c495fe781480dd48dd92e606057441715ecc722))
+- fix regular expression syntax highlight ([dc21fca](https://github.com/eenaree/new-dark-theme/commit/dc21fca955cd7124d01ac276e9ec835bc7a165bd))
+
 ## 1.1.3 (2023-08-20)
 
 - improve find, selection, word highlight to match Webstorm ([fce6605](https://github.com/eenaree/new-dark-theme/commit/fce66054fac5903f4f03d1464ac3c39af99a8fd3))
