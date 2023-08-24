@@ -264,7 +264,6 @@
     },
     {
       "scope": [
-        "constant",
         "entity.name.constant",
         "variable.other.property",
         "variable.other.object.property",
@@ -398,7 +397,11 @@
       }
     },
     {
-      "scope": ["support.class"],
+      "scope": [
+        "support.class",
+        "support.constant.color",
+        "constant.other.color.rgb-value"
+      ],
       "settings": {
         "foreground": "#14c4b6"
       }
