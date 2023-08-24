@@ -184,12 +184,16 @@
     "typeParameter": {
       "foreground": "#14c4b6"
     },
-    "type.defaultLibrary": {
+    "type": {
       "foreground": "#bdc0c9",
+    },
+    "type.defaultLibrary": {
       "fontStyle": "italic"
     },
-    "interface.defaultLibrary": {
+    "interface": {
       "foreground": "#bdc0c9",
+    },
+    "interface.defaultLibrary": {
       "fontStyle": "italic"
     },
     "class": {
@@ -198,6 +202,15 @@
     "class.defaultLibrary": {
       "foreground": "#cf84cf",
       "fontStyle": "italic bold"
+    },
+    "function": {
+      "foreground": "#70aeff",
+    },
+    "method": {
+      "foreground": "#70aeff",
+    },
+    "property": {
+      "foreground": "#cf84cf",
     },
     "property.defaultLibrary": {
       "foreground": "#14c4b6"
