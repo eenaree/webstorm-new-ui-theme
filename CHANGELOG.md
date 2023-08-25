@@ -2,6 +2,12 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.5 (2023-08-26)
+
+- simplify constant.language scope for cross-language consistency ([1b3ef39](https://github.com/eenaree/new-dark-theme/commit/1b3ef39c676ba96bba81f2ba1c870d41ba530a4f))
+- improve editor's peek view color to match Webstorm ([bd6c45a](https://github.com/eenaree/new-dark-theme/commit/bd6c45a374b90669f913873edf413a9099f948ca))
+- fix background color of the selected item to be more accurate ([eb3a255](https://github.com/eenaree/new-dark-theme/commit/eb3a255ede62a46afbd15b87c7493e3d78769150))
+
 ## 1.1.4 (2023-08-25)
 
 - improve syntax highlight for type, interface, function, method, and property using semantic token colors ([eff7c2e](https://github.com/eenaree/new-dark-theme/commit/eff7c2ee643ecf6a1d3cd2867f4a087bf1804322))
