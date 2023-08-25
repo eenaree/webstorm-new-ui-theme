@@ -116,7 +116,7 @@
     "sideBarSectionHeader.foreground": "#bababa",
     "sideBarSectionHeader.border": "#323232",
 
-    "list.activeSelectionBackground": "#1167d1",
+    "list.activeSelectionBackground": "#2f65ca",
     "list.activeSelectionForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#002a40",
     "list.hoverBackground": "#0000001f",
