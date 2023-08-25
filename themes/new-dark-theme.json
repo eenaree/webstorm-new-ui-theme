@@ -166,7 +166,20 @@
     "textLink.activeForeground": "#57C7FE",
 
     "settings.numberInputBackground": "#292929",
-    "settings.textInputBackground": "#292929"
+    "settings.textInputBackground": "#292929",
+
+    "peekView.border": "#292929",
+    "peekViewEditor.background": "#46484a",
+    "peekViewEditor.matchHighlightBackground": "#32593d",
+    "peekViewResult.background": "#3c3f41",
+    "peekViewResult.fileForeground": "#bbbbbb",
+    "peekViewResult.lineForeground": "#bdc0c9",
+    "peekViewResult.matchHighlightBackground": "#32593d",
+    "peekViewResult.selectionBackground": "#2f65ca",
+    "peekViewResult.selectionForeground": "#ffffff",
+    "peekViewTitle.background": "#3c3f41",
+    "peekViewTitleLabel.foreground": "#bbbbbb",
+    "peekViewTitleDescription.foreground": "#787878"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
