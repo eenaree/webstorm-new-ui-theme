@@ -198,13 +198,13 @@
       "foreground": "#14c4b6"
     },
     "type": {
-      "foreground": "#bdc0c9",
+      "foreground": "#bdc0c9"
     },
     "type.defaultLibrary": {
       "fontStyle": "italic"
     },
     "interface": {
-      "foreground": "#bdc0c9",
+      "foreground": "#bdc0c9"
     },
     "interface.defaultLibrary": {
       "fontStyle": "italic"
@@ -217,13 +217,13 @@
       "fontStyle": "italic bold"
     },
     "function": {
-      "foreground": "#70aeff",
+      "foreground": "#70aeff"
     },
     "method": {
-      "foreground": "#70aeff",
+      "foreground": "#70aeff"
     },
     "property": {
-      "foreground": "#cf84cf",
+      "foreground": "#cf84cf"
     },
     "property.defaultLibrary": {
       "foreground": "#14c4b6"
