@@ -210,7 +210,7 @@
       "fontStyle": "italic"
     },
     "class": {
-      "foreground": "#70aeff"
+      "foreground": "#bdc0c9"
     },
     "class.defaultLibrary": {
       "foreground": "#cf84cf",
@@ -290,6 +290,7 @@
         "entity.name.constant",
         "variable.other.property",
         "variable.other.object.property",
+        "variable.other.constant.property",
         "variable.other.enummember",
         "variable.language",
         "meta.object-literal.key",
@@ -297,6 +298,7 @@
         "meta.definition.property entity.name.function",
         "support.type.property-name.json",
         "support.variable.property",
+        "support.type.object.module",
         "punctuation.definition.markdown",
         "fenced_code"
       ],
@@ -353,7 +355,8 @@
         "punctuation.separator.list.comma.css",
         "punctuation.definition.group.regexp",
         "punctuation.definition.group.assertion.regexp",
-        "punctuation.definition.character-class.regexp"
+        "punctuation.definition.character-class.regexp",
+        "storage.type.function.arrow"
       ],
       "settings": {
         "foreground": "#BDC0C9"
