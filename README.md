@@ -34,6 +34,7 @@ This theme combines Webstorm Darcula Theme with [New UI color](https://www.jetbr
 - HTML
 - CSS
 - Markdown
+- JSON
 
 ## Recommended Editor Settings
 
