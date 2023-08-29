@@ -327,7 +327,8 @@
         "constant.other.character-class.regexp",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
-        "constant.other.color.rgb-value"
+        "constant.other.color.rgb-value",
+        "meta.attribute-selector"
       ],
       "settings": {
         "foreground": "#6CAB74"
@@ -346,6 +347,7 @@
         "variable.other.object",
         "entity.name.type",
         "support.type.property-name",
+        "support.type.vendored.property-name",
         "constant.language.import-export-all",
         "string variable",
         "source.yaml string.unquoted",
@@ -389,7 +391,8 @@
     {
       "scope": [
         "entity.name.function",
-        "string.other.link.description.title.markdown"
+        "string.other.link.description.title.markdown",
+        "variable.parameter.keyframe-list"
       ],
       "settings": {
         "foreground": "#70AEFF",
@@ -413,9 +416,12 @@
         "entity.other.attribute-name.class",
         "entity.other.attribute-name.pseudo-class",
         "entity.other.attribute-name.pseudo-element",
+        "entity.other.attribute-name.scss",
+        "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
         "variable.interpolation",
+        "variable.css",
         "variable.argument.css",
         "meta.decorator entity.name.function",
         "source.css support.function"
