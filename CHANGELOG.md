@@ -2,6 +2,15 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.6 (2023-08-29)
+
+- make color for terminator statement, like semicolon, the same ([2473297](https://github.com/eenaree/new-dark-theme/commit/2473297cbd4c72467c5c87b2fad096c375918125))
+- add highlighting for vendored css properties, keyframes and variables ([5fedddb](https://github.com/eenaree/new-dark-theme/commit/5fedddb1bb4eda076947c0e51423140b5099c2ee))
+- restrict supported constant and function colors in source.css ([0c8df2d](https://github.com/eenaree/new-dark-theme/commit/0c8df2dc83155e6ebb76e19beafe492a8d3b9cb9))
+- fix colors for class, constant property, arrow function and module.exports statement to match Webstorm ([b9e9cf8](https://github.com/eenaree/new-dark-theme/commit/b9e9cf89c251746da0ad0e817965f11a26dc57d5))
+- fix color for terminal, inactive panel title to match WebStorm ([2d657f3](https://github.com/eenaree/new-dark-theme/commit/2d657f3a60120709de3423e15569b4f99c1ac905))
+- fix color for jsx attribute assignment keyword ([e9b8f76](https://github.com/eenaree/new-dark-theme/commit/e9b8f763e60d1e2ed6d13d459f9e33369dab2e44))
+
 ## 1.1.5 (2023-08-26)
 
 - simplify constant.language scope for cross-language consistency ([1b3ef39](https://github.com/eenaree/new-dark-theme/commit/1b3ef39c676ba96bba81f2ba1c870d41ba530a4f))
