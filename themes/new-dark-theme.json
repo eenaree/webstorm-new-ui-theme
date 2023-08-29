@@ -328,7 +328,8 @@
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
         "constant.other.color.rgb-value",
-        "meta.attribute-selector"
+        "meta.attribute-selector",
+        "meta.tag.attributes keyword.operator.assignment"
       ],
       "settings": {
         "foreground": "#6CAB74"
