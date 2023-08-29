@@ -361,6 +361,7 @@
         "punctuation.definition.group.regexp",
         "punctuation.definition.group.assertion.regexp",
         "punctuation.definition.character-class.regexp",
+        "punctuation.terminator",
         "storage.type.function.arrow"
       ],
       "settings": {
