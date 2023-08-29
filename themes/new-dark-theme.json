@@ -322,11 +322,12 @@
         "markup.inline.raw",
         "markup.quote",
         "punctuation.separator.key-value.html",
-        "support.constant",
+        "source.css support.constant",
         "keyword.other.unit",
         "constant.other.character-class.regexp",
         "constant.other.character-class.set.regexp",
-        "constant.other.character-class.range.regexp"
+        "constant.other.character-class.range.regexp",
+        "constant.other.color.rgb-value"
       ],
       "settings": {
         "foreground": "#6CAB74"
@@ -417,18 +418,14 @@
         "variable.interpolation",
         "variable.argument.css",
         "meta.decorator entity.name.function",
-        "meta.property-value.css"
+        "source.css support.function"
       ],
       "settings": {
         "foreground": "#d5b778"
       }
     },
     {
-      "scope": [
-        "support.class",
-        "support.constant.color",
-        "constant.other.color.rgb-value"
-      ],
+      "scope": ["support.class"],
       "settings": {
         "foreground": "#14c4b6"
       }
