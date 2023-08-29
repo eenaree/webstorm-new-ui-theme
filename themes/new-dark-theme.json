@@ -93,13 +93,14 @@
     "editorWidget.border": "#323232",
     "editorWidget.resizeBorder": "#646464",
 
-    "terminal.background": "#3b3f41",
+    "terminal.background": "#2b2b2b",
+    "terminal.foreground": "#bbbbbb",
 
     "panel.background": "#3b3f41",
     "panel.border": "#323232",
     "panelTitle.activeBorder": "#3574f0",
     "panelTitle.activeForeground": "#ffffff",
-    "panelTitle.inactiveForeground": "#aeb1b3",
+    "panelTitle.inactiveForeground": "#bbbbbb",
 
     "dropdown.border": "#4b4b4b",
     "dropdown.background": "#3b3f41",
