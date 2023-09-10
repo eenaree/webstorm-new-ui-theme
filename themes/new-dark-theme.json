@@ -32,8 +32,9 @@
     "editorLineNumber.activeForeground": "#a4a3a3",
     "editorLineNumber.foreground": "#606366",
     "editorUnnecessaryCode.opacity": "#00000066",
-    "editorInlayHint.background": "#333",
     "editorInlayHint.foreground": "#787878",
+    "editorInlayHint.typeBackground": "#33333300",
+    "editorInlayHint.parameterBackground": "#333333",
     "editorRuler.foreground": "#3c3c3c",
 
     "editor.findMatchBackground": "#214283",
