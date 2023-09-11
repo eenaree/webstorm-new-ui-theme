@@ -94,6 +94,10 @@
     "editorWidget.foreground": "#bababa",
     "editorWidget.border": "#323232",
     "editorWidget.resizeBorder": "#646464",
+    "editorSuggestWidget.background": "#46484a",
+    "editorSuggestWidget.selectedBackground": "#113a5c",
+    "editorSuggestWidget.focusHighlightForeground": "#589df6",
+    "editorSuggestWidget.highlightForeground": "#589df6",
 
     "terminal.background": "#2b2b2b",
     "terminal.foreground": "#bbbbbb",
