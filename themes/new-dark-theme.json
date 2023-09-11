@@ -20,6 +20,7 @@
 
     "editor.background": "#2b2b2b",
     "editor.foreground": "#bdc0c9",
+    "editor.foldBackground": "#3a3a3a",
     "editorBracketMatch.background": "#165e70",
     "editorBracketMatch.border": "#00000000",
     "editorGutter.background": "#313336",
