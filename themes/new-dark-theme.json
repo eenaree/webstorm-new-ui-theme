@@ -269,6 +269,7 @@
         "entity.name.command",
         "entity.name.tag.yaml",
         "constant.character.escape",
+        "punctuation.definition.markdown",
         "punctuation.definition.raw.markdown",
         "punctuation.definition.bold.markdown",
         "punctuation.definition.italic.markdown",
@@ -301,7 +302,6 @@
         "support.type.property-name.json",
         "support.variable.property",
         "support.type.object.module",
-        "punctuation.definition.markdown",
         "fenced_code"
       ],
       "settings": {
