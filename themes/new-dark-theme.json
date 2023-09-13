@@ -358,7 +358,11 @@
       }
     },
     {
-      "scope": ["constant.numeric", "keyword.operator.quantifier.regexp"],
+      "scope": [
+        "constant.numeric",
+        "keyword.operator.quantifier.regexp",
+        "support.class.component"
+      ],
       "settings": {
         "foreground": "#2AACB8"
       }
@@ -452,12 +456,6 @@
       ],
       "settings": {
         "foreground": "#d5b778"
-      }
-    },
-    {
-      "scope": ["support.class"],
-      "settings": {
-        "foreground": "#14c4b6"
       }
     },
     {
