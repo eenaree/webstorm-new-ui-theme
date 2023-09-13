@@ -4,6 +4,9 @@
   "colors": {
     "focusBorder": "#3d6185",
 
+    "button.background": "#365880",
+    "button.secondaryBackground": "#4c5052",
+
     "titleBar.activeBackground": "#3b3f41",
     "titleBar.inactiveBackground": "#3b3f41",
 
