@@ -2,6 +2,8 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
+    "focusBorder": "#3d6185",
+
     "titleBar.activeBackground": "#3b3f41",
     "titleBar.inactiveBackground": "#3b3f41",
 
@@ -86,7 +88,10 @@
     "inputOption.activeForeground": "#00b9e5",
     "inputOption.activeBorder": "#00000000",
 
-    "quickInputList.focusBackground": "#002a40",
+    "quickInput.background": "#3c3f41",
+    "quickInput.foreground": "#bbbbbb",
+    "quickInputList.focusBackground": "#2f65ca",
+    "quickInputList.focusForeground": "#ffffff",
 
     "editorWidget.background": "#3b3f41",
     "editorWidget.foreground": "#bababa",
@@ -125,9 +130,12 @@
 
     "list.activeSelectionBackground": "#2f65ca",
     "list.activeSelectionForeground": "#ffffff",
+    "list.focusAndSelectionOutline": "#2f65ca",
+    "list.focusHighlightForeground": "#c5a542",
+    "list.highlightForeground": "#c5a542",
     "list.inactiveSelectionBackground": "#002a40",
-    "list.hoverBackground": "#0000001f",
-    "list.dropBackground": "#0000001f",
+    "list.hoverBackground": "#2f65ca",
+    "list.dropBackground": "#2f65ca",
 
     "statusBar.background": "#3b3f41",
     "statusBar.border": "#4e4e4e",
