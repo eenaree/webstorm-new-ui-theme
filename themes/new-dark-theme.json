@@ -105,7 +105,7 @@
 
     "panel.background": "#3b3f41",
     "panel.border": "#323232",
-    "panelTitle.activeBorder": "#3574f0",
+    "panelTitle.activeBorder": "#4a88c7",
     "panelTitle.activeForeground": "#ffffff",
     "panelTitle.inactiveForeground": "#bbbbbb",
 
@@ -145,8 +145,8 @@
 
     "tab.activeBackground": "#4d5254",
     "tab.activeForeground": "#bbbbbb",
-    "tab.activeBorder": "#3574f0",
-    "tab.activeModifiedBorder": "#3574f0",
+    "tab.activeBorder": "#4a88c7",
+    "tab.activeModifiedBorder": "#4a88c7",
     "tab.inactiveModifiedBorder": "#727a80",
     "tab.border": "#4b4b4b00",
     "tab.inactiveBackground": "#3b3f41",
