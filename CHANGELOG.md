@@ -2,6 +2,25 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.1.7 (2023-09-13)
+
+### Fixed
+
+- color for jsx component token ([20da8b7](https://github.com/eenaree/new-dark-theme/commit/20da8b75885553c6f98ac5e2e34086b3f62fa27f)), type parameter ([524590f](https://github.com/eenaree/new-dark-theme/commit/524590f38709275e89963c7aec083af8f04da4eb))
+- border for active tab and panel ([8661d48](https://github.com/eenaree/new-dark-theme/commit/8661d48059362b23dd0ec652670358699a892b4f))
+- background for other badge except activity bar ([60abc02](https://github.com/eenaree/new-dark-theme/commit/60abc02b57309eb62604e92ca2352a71a898b34b))
+- background for button and secondary button ([fc13f1a](https://github.com/eenaree/new-dark-theme/commit/fc13f1a8601bf9450cf6331f746d23367e73f4cd))
+- background when empty editor group ([b93130c](https://github.com/eenaree/new-dark-theme/commit/b93130c77a452e9e3e37a5419ef0f46f65dd52c5))
+- background for folded range ([2f9befd](https://github.com/eenaree/new-dark-theme/commit/2f9befd5435d939a5d270ae891e8ac32c4a7ee6e))
+- simplify matching brackets color ([61aec28](https://github.com/eenaree/new-dark-theme/commit/61aec289d76f03ddaa763e483c33520fffa4a071))
+- adjust colors when list hover and focused to match WebStorm ([eb6bfed](https://github.com/eenaree/new-dark-theme/commit/eb6bfed7f9b334d60506613e81fec513398a7f7c))
+- diff editor to make changes more visible ([fa13660](https://github.com/eenaree/new-dark-theme/commit/fa1366070bcc8b012e4bd04e51365561339b2bc4))
+- colors for settings editor ([641aab2](https://github.com/eenaree/new-dark-theme/commit/641aab26fbc4137fb70939da9d49f1254f088ea9))
+- colors for editor suggest widget ([106674a](https://github.com/eenaree/new-dark-theme/commit/106674a36866955db5af92a2be2365f067c53155)), hover widget ([9c16351](https://github.com/eenaree/new-dark-theme/commit/9c1635124b56f591f2830f5c875b7154796a5f49))
+- color for triple backtick in markdown code block ([68c0c8e](https://github.com/eenaree/new-dark-theme/commit/68c0c8eded5a0ef201434301b74c77ecafeac215))
+- divide background for inline hints into type and parameter ([d12e5bf](https://github.com/eenaree/new-dark-theme/commit/d12e5bf620065282968331da0ca60fac90a572a1))
+- default color for uncolored tokens ([9366cf0](https://github.com/eenaree/new-dark-theme/commit/9366cf08cc68a46885877a3199678706bf6e0e5c))
+
 ## 1.1.6 (2023-08-29)
 
 ### Improved
