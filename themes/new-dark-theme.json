@@ -58,11 +58,9 @@
     "editorBracketHighlight.foreground6": "#a9b7c6",
 
     "diffEditor.insertedTextBackground": "#385570",
-    "diffEditor.insertedTextBorder": "#00000000",
-    "diffEditor.insertedLineBackground": "#283541",
-    "diffEditorGutter.insertedLineBackground": "#283541",
-    "diffEditor.removedTextBackground": "#606366",
-    "diffEditor.removedTextBorder": "#00000000",
+    "diffEditor.insertedLineBackground": "#303c47",
+    "diffEditorGutter.insertedLineBackground": "#303c47",
+    "diffEditor.removedTextBackground": "#373737",
     "diffEditor.removedLineBackground": "#484a4a",
     "diffEditorGutter.removedLineBackground": "#484a4a",
 
