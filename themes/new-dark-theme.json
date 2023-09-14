@@ -130,8 +130,8 @@
     "list.focusHighlightForeground": "#c5a542",
     "list.highlightForeground": "#c5a542",
     "list.inactiveSelectionBackground": "#002a40",
-    "list.hoverBackground": "#2f65ca",
-    "list.dropBackground": "#2f65ca",
+    "list.hoverBackground": "#0000001f",
+    "list.dropBackground": "#373a3c",
 
     "statusBar.background": "#3b3f41",
     "statusBar.border": "#4e4e4e",
