@@ -10,6 +10,7 @@
     "titleBar.activeBackground": "#3b3f41",
     "titleBar.inactiveBackground": "#3b3f41",
 
+    "menubar.selectionBackground": "#4d5254",
     "menu.background": "#3b3f41",
     "menu.foreground": "#bababa",
 
