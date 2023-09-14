@@ -109,7 +109,7 @@
     "panelTitle.activeForeground": "#ffffff",
     "panelTitle.inactiveForeground": "#bbbbbb",
 
-    "dropdown.border": "#4b4b4b",
+    "dropdown.border": "#5e6060",
     "dropdown.background": "#3b3f41",
     "dropdown.foreground": "#bababa",
 
@@ -178,7 +178,7 @@
     "textLink.activeForeground": "#57C7FE",
 
     "settings.modifiedItemIndicator": "#3d6185",
-    "settings.dropdownBackground": "#45494a",
+    "settings.dropdownBackground": "#3b3f41",
     "settings.dropdownForeground": "#bbbbbb",
     "settings.dropdownBorder": "#646464",
     "settings.checkboxBackground": "#43494a",
