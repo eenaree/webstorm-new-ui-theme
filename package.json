@@ -3,7 +3,7 @@
   "displayName": "Webstorm New Dark Theme",
   "version": "1.1.7",
   "publisher": "eenaree",
-  "description": "combine Webstorm Darcula Theme with New UI color",
+  "description": "a theme that looks similar to WebStorm's New UI",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -23,7 +23,12 @@
       {
         "label": "Webstorm New Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/new-dark-theme.json"
+        "path": "./themes/new_dark.json"
+      },
+      {
+        "label": "Webstorm New Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/new_darcula.json"
       }
     ]
   },
