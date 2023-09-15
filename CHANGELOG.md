@@ -2,6 +2,20 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.0 (2023-09-16)
+
+### Added
+
+- divide theme into `Webstorm New Dark` and `Webstorm New Darcula` version ([e9c6811](https://github.com/eenaree/new-dark-theme/commit/e9c68114c044f3565ddf92970512480bca8a2802))
+
+### Fixed
+
+- adjust overall token color more accurate ([713ae7f](https://github.com/eenaree/new-dark-theme/commit/713ae7f876d48a4f1f71b322b9f10cd5d5d8db70))
+- in `Webstorm New Darcula`
+  - fix selected menu item more visible ([3782b82](https://github.com/eenaree/new-dark-theme/commit/3782b82e2659bde3bc4f034e774837aa76ee73c5))
+  - make color for dropdown more accurate ([e530b7d](https://github.com/eenaree/new-dark-theme/commit/e530b7d136ad87e7738c7c73a53fa4b7289d2c90))
+  - rollback of hover and drop background for list ([ec58533](https://github.com/eenaree/new-dark-theme/commit/ec58533e18fb544104a3bcab61e46928d261af62))
+
 ## 1.1.7 (2023-09-13)
 
 ### Fixed
