@@ -360,7 +360,6 @@
         "constant.other.character-class.regexp",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
-        "constant.other.color.rgb-value",
         "meta.attribute-selector",
         "meta.tag.attributes keyword.operator.assignment"
       ],
@@ -383,6 +382,7 @@
         "meta.tag.attributes",
         "variable.other.object",
         "entity.name.type",
+        "entity.name.function.tagged-template",
         "support.type.vendored.property-name",
         "constant.language.import-export-all",
         "string variable",
@@ -390,6 +390,7 @@
         "source.yaml constant.language.boolean",
         "punctuation.accessor",
         "keyword.operator",
+        "keyword.other.unit.percentage",
         "punctuation.definition.entity",
         "punctuation.separator.key-value",
         "punctuation.separator.list.comma.css",
@@ -433,6 +434,7 @@
     },
     {
       "scope": [
+        "constant.other.color.rgb-value",
         "entity.name.function",
         "string.other.link.description.title.markdown",
         "variable.parameter.keyframe-list"
