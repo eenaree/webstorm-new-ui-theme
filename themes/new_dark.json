@@ -295,7 +295,6 @@
         "keyword.operator.expression",
         "storage",
         "storage.type",
-        "meta.type",
         "support.type",
         "constant.language",
         "variable.language.this",
