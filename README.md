@@ -1,31 +1,25 @@
 # Webstorm New Dark Theme
 
-This theme combines Webstorm Darcula Theme with [New UI color](https://www.jetbrains.com/help/webstorm/new-ui.html).
+This theme has been designed with color schemes similar to [WebStorm's New UI](https://www.jetbrains.com/help/webstorm/new-ui.html).
+
+The syntax highlighting follows the color palette of the WebStorm's New UI, while the editor's overall workbench style are divided between Darcula theme and the New UI theme.
 
 ## Preview
 
-### JavaScript
+### New Dark
 
-![JavaScript Preview](/images/preview-javascript.png)
+![Webstorm New Dark](./images/preview_new_dark.png)
 
-### TypeScript
+### New Darcula
 
-![TypeScript Preview](/images/preview-typescript.png)
-
-### HTML / CSS
-
-![HTML,CSS Preview](/images/preview-htmlcss.png)
-
-### Markdown
-
-![Markdown Preview](/images/preview-markdown.png)
+![Webstorm New Darcula](./images/preview_new_darcula.png)
 
 ## Installation
 
 1. Open **Extensions** in VSCode's sidebar. (or From Command Palette (**Ctrl+Shift+P**), `View: Show Extensions`)
 2. Search for `Webstorm New Dark Theme`.
 3. Click **Install** to install it.
-4. From Command Palette (**Ctrl+Shift+P**), select `Preferences: Color Theme` > `Webstorm New Dark`.
+4. From Command Palette (**Ctrl+Shift+P**), select `Preferences: Color Theme` > `Webstorm New Dark` or `Webstorm New Darcula`.
 
 ## Supported Languages
 
