@@ -468,11 +468,16 @@
         "variable.interpolation",
         "variable.css",
         "variable.argument.css",
-        "meta.decorator entity.name.function",
         "source.css support.function"
       ],
       "settings": {
         "foreground": "#d5b778"
+      }
+    },
+    {
+      "scope": ["punctuation.decorator", "meta.decorator entity.name.function"],
+      "settings": {
+        "foreground": "#b3ae60"
       }
     },
     {
