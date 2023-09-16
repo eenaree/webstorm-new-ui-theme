@@ -2,6 +2,14 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.1 (2023-09-16)
+
+### Fixed
+
+- highlight color for decorator more accurate ([c6b85bf](https://github.com/eenaree/new-dark-theme/commit/c6b85bf9bd4b416996124764e55a7b4e715d98b3))
+- highlight color for percentage keyword, rgb color code, tagged template function ([a495bae](https://github.com/eenaree/new-dark-theme/commit/a495bae12f2adb06c2feafecea897b53cf828609))
+- unnecessary highlighting for type declaration brace ([84b6577](https://github.com/eenaree/new-dark-theme/commit/84b6577390362f3f146d73c1fe5815a465772344))
+
 ## 1.2.0 (2023-09-16)
 
 ### Added
