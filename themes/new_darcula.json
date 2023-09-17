@@ -360,13 +360,15 @@
       }
     },
     {
-      "scope": [
-        "constant.numeric",
-        "keyword.operator.quantifier.regexp",
-        "support.class.component"
-      ],
+      "scope": ["constant.numeric", "keyword.operator.quantifier.regexp"],
       "settings": {
         "foreground": "#2cabb8"
+      }
+    },
+    {
+      "scope": ["support.class.component"],
+      "settings": {
+        "foreground": "#2ebaa3"
       }
     },
     {
