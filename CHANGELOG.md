@@ -2,6 +2,17 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.2 (2023-09-17)
+
+### Fixed
+
+- in Hover Widget, highlight color of token to be more accurate
+
+  - type parameter [#1](https://github.com/eenaree/new-dark-theme/issues/1)
+  - variable ([6211559](https://github.com/eenaree/new-dark-theme/commit/6211559ba0746d8da57e94f68042404443463da9))
+
+- adjust highlight color for jsx component token ([07d046a](https://github.com/eenaree/new-dark-theme/commit/07d046aca4644f6b50897d421b6e269ea8ebc397))
+
 ## 1.2.1 (2023-09-16)
 
 ### Fixed
