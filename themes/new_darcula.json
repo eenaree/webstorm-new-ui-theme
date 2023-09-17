@@ -371,6 +371,16 @@
     },
     {
       "scope": [
+        "entity.name.type.parameter",
+        "meta.type.parameters entity.name.type",
+        "meta.type.infer entity.name.type"
+      ],
+      "settings": {
+        "foreground": "#507874"
+      }
+    },
+    {
+      "scope": [
         "meta.tag.attributes",
         "variable.other.object",
         "entity.name.type",
