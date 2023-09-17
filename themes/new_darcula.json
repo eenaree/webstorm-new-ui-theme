@@ -413,6 +413,12 @@
       }
     },
     {
+      "scope": ["variable.other.readwrite", "variable.other.constant"],
+      "settings": {
+        "foreground": "#a9b7c5"
+      }
+    },
+    {
       "scope": [
         "variable.other.link",
         "string.other.link",
