@@ -50,6 +50,7 @@
     "inputOption.activeBorder": "#00000000",
 
     "button.background": "#365880",
+    "button.border": "#5f6060",
     "button.secondaryBackground": "#4c5052",
 
     "badge.background": "#4e4e4e",
