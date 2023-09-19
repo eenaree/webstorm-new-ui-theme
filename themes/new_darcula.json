@@ -89,6 +89,14 @@
     "statusBar.debuggingBorder": "#4e4e4e",
     "statusBar.debuggingForeground": "#bababa",
 
+    "notificationCenterHeader.foreground": "#bbbbbb",
+    "notificationCenterHeader.background": "#3b3f41",
+    "notificationToast.border": "#54585a",
+    "notifications.foreground": "#bbbbbb",
+    "notifications.background": "#4c5052",
+    "notifications.border": "#323232",
+    "notificationLink.foreground": "#589df6",
+
     "editorGroup.border": "#323232",
     "editorGroup.emptyBackground": "#313336",
     "editorGroupHeader.noTabsBackground": "#3b3f41",

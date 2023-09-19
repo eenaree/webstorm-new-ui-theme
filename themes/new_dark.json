@@ -97,6 +97,14 @@
     "statusBarItem.activeBackground": "#42454a",
     "statusBarItem.hoverBackground": "#42454a",
 
+    "notificationCenterHeader.foreground": "#dfe1e5",
+    "notificationCenterHeader.background": "#2b2d30",
+    "notificationToast.border": "#42454a",
+    "notifications.foreground": "#dfe1e5",
+    "notifications.background": "#393b40",
+    "notifications.border": "#1e1f22",
+    "notificationLink.foreground": "#6a9bfa",
+
     "editorGroup.border": "#393b40",
     "editorGroup.emptyBackground": "#1f1e22",
     "editorGroupHeader.noTabsBackground": "#1e1f22",
