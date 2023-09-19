@@ -252,12 +252,6 @@
       "foreground": "#c77dbb",
       "fontStyle": "italic bold"
     },
-    "function": {
-      "foreground": "#57a8f5"
-    },
-    "method": {
-      "foreground": "#57a8f5"
-    },
     "property": {
       "foreground": "#c77dbb"
     },
