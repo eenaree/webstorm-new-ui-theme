@@ -404,6 +404,8 @@
         "punctuation.definition.group.regexp",
         "punctuation.definition.group.assertion.regexp",
         "punctuation.definition.character-class.regexp",
+        "punctuation.definition.template-expression.begin",
+        "punctuation.definition.template-expression.end",
         "punctuation.terminator",
         "storage.type.function.arrow"
       ],
@@ -455,15 +457,6 @@
       "settings": {
         "foreground": "#57a8f5",
         "fontStyle": ""
-      }
-    },
-    {
-      "scope": [
-        "punctuation.definition.template-expression.begin",
-        "punctuation.definition.template-expression.end"
-      ],
-      "settings": {
-        "foreground": "#ff9da4"
       }
     },
     {
