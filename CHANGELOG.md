@@ -2,6 +2,15 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.3 (2023-09-19)
+
+### Fixed
+
+- adjust highlighting color for template literal braces ([486ee04](https://github.com/eenaree/new-dark-theme/commit/486ee04d660a6adb70c75f74409b7de397e7a86f))
+- adjust colors for notification ([e0cb2d9](https://github.com/eenaree/new-dark-theme/commit/e0cb2d96d715febab4b060ba2205c3bc0152de20))
+- remove semantic token colors for functions and methods to enable differentiation based on their types ([c8cf12a](https://github.com/eenaree/new-dark-theme/commit/c8cf12a340d329cbfbda87e5d3b6e8863d9a41ac))
+- [#2](https://github.com/eenaree/new-dark-theme/issues/2) secondary button that appears transparent
+
 ## 1.2.2 (2023-09-17)
 
 ### Fixed
