@@ -370,7 +370,12 @@
       }
     },
     {
-      "scope": ["constant.numeric", "keyword.operator.quantifier.regexp"],
+      "scope": [
+        "constant.numeric",
+        "keyword.operator.quantifier.regexp",
+        "string.regexp punctuation.definition.string",
+        "string.regexp keyword.other"
+      ],
       "settings": {
         "foreground": "#2cabb8"
       }
