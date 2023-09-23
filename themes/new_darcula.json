@@ -426,6 +426,12 @@
       }
     },
     {
+      "scope": ["variable.other.jsdoc", "entity.name.type.instance.jsdoc"],
+      "settings": {
+        "foreground": "#abadb3"
+      }
+    },
+    {
       "scope": [
         "variable.other.link",
         "string.other.link",
