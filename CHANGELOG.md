@@ -2,6 +2,12 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.5 (2023-09-24)
+
+### Fixed
+
+- In regular expression, adjust color for [character class](https://github.com/eenaree/new-dark-theme/commit/f58e5fe4bfea8eef8f96a2e6d51641fa5f59ec85), [definition string and flags](https://github.com/eenaree/new-dark-theme/commit/8a2c2833aed65107420ee2a7bf619bebcafc98bf), [back-references](https://github.com/eenaree/new-dark-theme/commit/9757bcf8f77a95c7b37db7c05b8f3f3a6e1aa46b)
+
 ## 1.2.4 (2023-09-23)
 
 ### Fixed
