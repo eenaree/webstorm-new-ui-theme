@@ -301,6 +301,7 @@
         "support.type",
         "constant.language",
         "variable.language.this",
+        "variable.key.dotenv",
         "entity.name.command",
         "entity.name.tag.yaml",
         "constant.character.escape",
