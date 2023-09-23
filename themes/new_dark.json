@@ -360,7 +360,6 @@
         "punctuation.separator.key-value.html",
         "source.css support.constant",
         "keyword.other.unit",
-        "constant.other.character-class.regexp",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
         "meta.attribute-selector",
@@ -495,7 +494,11 @@
       }
     },
     {
-      "scope": ["punctuation.decorator", "meta.decorator entity.name.function"],
+      "scope": [
+        "punctuation.decorator",
+        "meta.decorator entity.name.function",
+        "constant.other.character-class.regexp"
+      ],
       "settings": {
         "foreground": "#b3ae60"
       }
