@@ -2,6 +2,12 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.4 (2023-09-23)
+
+### Fixed
+
+- adjust color for jsdoc variable and variable type ([da0f9d3](https://github.com//eenaree/new-dark-theme/commit/da0f9d38f36e114b568317cd201cf8c3e75cdb6d))
+
 ## 1.2.3 (2023-09-19)
 
 ### Fixed
