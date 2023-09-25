@@ -2,6 +2,12 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.6 (2023-09-25)
+
+### Patch
+
+- Add highlight color for environment variable key ([4cf5bed](https://github.com/eenaree/commit/4cf5bedcc2ad45deb54606bbd9b77abed44da732))
+
 ## 1.2.5 (2023-09-24)
 
 ### Patch
