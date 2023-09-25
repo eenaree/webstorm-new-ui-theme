@@ -8,6 +8,8 @@
     "menubar.selectionBackground": "#4d5254",
     "menu.background": "#3b3f41",
     "menu.foreground": "#bababa",
+    "menu.separatorBackground": "#515151",
+    "menu.border": "#2b2e2f",
 
     "quickInput.background": "#3c3f41",
     "quickInput.foreground": "#bbbbbb",

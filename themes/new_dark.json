@@ -9,6 +9,8 @@
     "menubar.selectionForeground": "#dfe1e5",
     "menu.background": "#2b2d30",
     "menu.foreground": "#dfe1e5",
+    "menu.separatorBackground": "#42454a",
+    "menu.border": "#42454a",
 
     "commandCenter.activeForeground": "#dfe1e5",
     "commandCenter.activeBackground": "#42454a",
