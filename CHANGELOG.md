@@ -2,11 +2,17 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.7 (2023-09-26)
+
+### Patch
+
+- Adjust color for border and separator bar in menus ([73586f0](https://github.com/eenaree/new-dark-theme/commit/73586f057440a1b49208997d7102482295983eee))
+
 ## 1.2.6 (2023-09-25)
 
 ### Patch
 
-- Add highlight color for environment variable key ([4cf5bed](https://github.com/eenaree/commit/4cf5bedcc2ad45deb54606bbd9b77abed44da732))
+- Add highlight color for environment variable key ([4cf5bed](https://github.com/eenaree/new-dark-theme/commit/4cf5bedcc2ad45deb54606bbd9b77abed44da732))
 
 ## 1.2.5 (2023-09-24)
 
