@@ -29,6 +29,11 @@
         "label": "Webstorm New Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/new_darcula.json"
+      },
+      {
+        "label": "Webstorm New Light",
+        "uiTheme": "vs",
+        "path": "./themes/new_light.json"
       }
     ]
   },
