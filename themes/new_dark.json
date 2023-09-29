@@ -421,6 +421,7 @@
         "punctuation.definition.group.assertion.regexp",
         "punctuation.definition.character-class.regexp",
         "punctuation.definition.template-expression",
+        "punctuation.definition.attribute-selector",
         "punctuation.terminator",
         "storage.type.function.arrow"
       ],
