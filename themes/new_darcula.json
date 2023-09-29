@@ -412,8 +412,7 @@
         "punctuation.definition.group.regexp",
         "punctuation.definition.group.assertion.regexp",
         "punctuation.definition.character-class.regexp",
-        "punctuation.definition.template-expression.begin",
-        "punctuation.definition.template-expression.end",
+        "punctuation.definition.template-expression",
         "punctuation.terminator",
         "storage.type.function.arrow"
       ],
