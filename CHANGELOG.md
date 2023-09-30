@@ -2,6 +2,13 @@
 
 All notable changes to the "new-dark" extension will be documented in this file.
 
+## 1.2.8 (2023-09-30)
+
+### Patch
+
+- Remove parameter italic style ([04eb483](https://github.com/eenaree/new-dark-theme/commit/04eb4838a48d9e7d34e8905d661f75d3d9aedf52))
+- Fix highlight color for attribute selector bracket ([9d1540d](https://github.com/eenaree/new-dark-theme/commit/9d1540db8166ab71b28cd746bdab22f957da72a1))
+
 ## 1.2.7 (2023-09-26)
 
 ### Patch
