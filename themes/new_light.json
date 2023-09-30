@@ -226,6 +226,56 @@
     "settings.textInputForeground": "#000000",
     "settings.textInputBorder": "#c8ccd6"
   },
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "variable": {
+      "foreground": "#238f8f"
+    },
+    "variable.readonly": {
+      "foreground": "#861194"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#861194",
+      "fontStyle": "italic"
+    },
+    "typeParameter": {
+      "foreground": "#080808"
+    },
+    "type": {
+      "foreground": "#080808"
+    },
+    "type.defaultLibrary": {
+      "fontStyle": "italic"
+    },
+    "interface": {
+      "foreground": "#080808"
+    },
+    "interface.defaultLibrary": {
+      "fontStyle": "italic"
+    },
+    "parameter": {
+      "foreground": "#080808",
+      "fontStyle": "underline"
+    },
+    "class": {
+      "foreground": "#080808"
+    },
+    "class.defaultLibrary": {
+      "fontStyle": "italic"
+    },
+    "property": {
+      "foreground": "#861194"
+    },
+    "property.defaultLibrary": {
+      "fontStyle": "italic"
+    },
+    "method": {
+      "foreground": "#7a7a43"
+    },
+    "method.declaration": {
+      "foreground": "#006279"
+    }
+  },
   "tokenColors": [
     {
       "scope": ["comment"],
