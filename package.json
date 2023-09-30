@@ -36,7 +36,7 @@
         "path": "./themes/new_light.json"
       },
       {
-        "label": "WebStorm New Light with Dark Header",
+        "label": "Webstorm New Light with Dark Header",
         "uiTheme": "vs",
         "path": "./themes/new_light_with_darkHeader.json"
       }
