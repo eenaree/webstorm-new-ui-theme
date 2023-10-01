@@ -1,10 +1,20 @@
-# Webstorm New Dark Theme
+# WebStorm New UI Theme
 
-This theme has been designed with color schemes similar to [WebStorm's New UI](https://www.jetbrains.com/help/webstorm/new-ui.html).
+This theme has been designed with color schemes similar to [WebStorm New UI](https://www.jetbrains.com/help/webstorm/new-ui.html).
 
-The syntax highlighting follows the color palette of the WebStorm's New UI, while the editor's overall workbench style are divided between Darcula theme and the New UI theme.
+The syntax highlighting follows the color palette of the WebStorm New UI, but there are some parts that purposely differentiate themselves from the WebStorm theme.
+
+For example, I've applied italic styles to built-in objects, types and interfaces, making it easier to distinguish when writing code. There are more things besides this. Also, The syntax highlighting method between the dark theme and the light theme is slightly different.
 
 ## Preview
+
+### New Light
+
+![Webstorm New Light](./images/preview_new_light.png)
+
+### New Light with Dark Header
+
+![Webstorm New Light with Dark Header](./images/preview_new_light_with_darkHeader.png)
 
 ### New Dark
 
@@ -17,9 +27,13 @@ The syntax highlighting follows the color palette of the WebStorm's New UI, whil
 ## Installation
 
 1. Open **Extensions** in VSCode's sidebar. (or From Command Palette (**Ctrl+Shift+P**), `View: Show Extensions`)
-2. Search for `Webstorm New Dark Theme`.
+2. Search for `WebStorm New UI Theme`.
 3. Click **Install** to install it.
-4. From Command Palette (**Ctrl+Shift+P**), select `Preferences: Color Theme` > `Webstorm New Dark` or `Webstorm New Darcula`.
+4. From Command Palette (**Ctrl+Shift+P**), select `Preferences: Color Theme` and select a theme you want.
+   - `Webstorm New Light`
+   - `Webstorm New Light with Dark Header`
+   - `Webstorm New Dark`
+   - `Webstorm New Darcula`
 
 ## Supported Languages
 
@@ -42,5 +56,5 @@ The syntax highlighting follows the color palette of the WebStorm's New UI, whil
 
 ## Resources
 
-- [Webstorm Darcula Theme](https://marketplace.visualstudio.com/items?itemName=imekachi.webstorm-darcula)
+- [WebStorm Darcula Theme](https://marketplace.visualstudio.com/items?itemName=imekachi.webstorm-darcula)
 - [Int UI Theme](https://marketplace.visualstudio.com/items?itemName=baran-wang.vscode-theme-jetbrains-new-ui)

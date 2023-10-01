@@ -1,9 +1,9 @@
 {
   "name": "webstorm-new-dark",
-  "displayName": "Webstorm New Dark Theme",
-  "version": "1.2.8",
+  "displayName": "WebStorm New UI Theme",
+  "version": "2.0.0",
   "publisher": "eenaree",
-  "description": "a theme that looks similar to WebStorm's New UI",
+  "description": "A theme that looks similar to WebStorm New UI",
   "engines": {
     "vscode": "^1.81.0"
   },
@@ -13,9 +13,11 @@
   "keywords": [
     "theme",
     "dark theme",
+    "light theme",
     "jetbrains",
     "intellij",
     "new dark",
+    "new light",
     "webstorm"
   ],
   "contributes": {
@@ -44,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eenaree/new-dark-theme.git"
+    "url": "https://github.com/eenaree/webstorm-new-ui-theme.git"
   }
 }

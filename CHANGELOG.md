@@ -1,6 +1,13 @@
 # Change Log
 
-All notable changes to the "new-dark" extension will be documented in this file.
+All notable changes to the "webstorm-new-ui" extension will be documented in this file.
+
+## 2.0.0 (2023-10-01)
+
+### Major
+
+- Add support for `New Light Theme` ([ee74813](https://github.com/eenaree/webstorm-new-ui-theme/commit/ee7481377a01dee80d25011860ffbf41ac102391))
+- Change displayName shown in marketplace
 
 ## 1.2.8 (2023-09-30)
 
