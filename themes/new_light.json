@@ -304,7 +304,6 @@
         "variable.key.dotenv",
         "entity.name.tag",
         "entity.name.command",
-        "entity.other.attribute-name",
         "entity.other.keyframe-offset",
         "constant.character.escape",
         "punctuation.definition.markdown",
@@ -380,7 +379,11 @@
       }
     },
     {
-      "scope": ["support.type.property-name", "constant.other.character-class.regexp"],
+      "scope": [
+        "entity.other.attribute-name",
+        "support.type.property-name",
+        "constant.other.character-class.regexp"
+      ],
       "settings": {
         "foreground": "#174ad4"
       }
