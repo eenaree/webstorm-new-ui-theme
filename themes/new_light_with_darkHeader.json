@@ -236,8 +236,7 @@
       "foreground": "#238f8f"
     },
     "variable.defaultLibrary": {
-      "foreground": "#861194",
-      "fontStyle": "italic"
+      "foreground": "#861194"
     },
     "typeParameter": {
       "foreground": "#080808"
@@ -262,7 +261,7 @@
       "foreground": "#080808"
     },
     "class.defaultLibrary": {
-      "fontStyle": "italic"
+      "foreground": "#861194"
     },
     "property": {
       "foreground": "#861194"

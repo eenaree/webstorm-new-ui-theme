@@ -226,7 +226,7 @@
     },
     "variable.defaultLibrary": {
       "foreground": "#c77dbb",
-      "fontStyle": "italic bold"
+      "fontStyle": "italic"
     },
     "parameter": {
       "foreground": "#bcbec3",
@@ -251,7 +251,7 @@
     },
     "class.defaultLibrary": {
       "foreground": "#c77dbb",
-      "fontStyle": "italic bold"
+      "fontStyle": "italic"
     },
     "property": {
       "foreground": "#c77dbb"
