@@ -231,9 +231,6 @@
     "variable": {
       "foreground": "#238f8f"
     },
-    "variable.readonly": {
-      "foreground": "#861194"
-    },
     "variable.defaultLibrary": {
       "foreground": "#861194",
       "fontStyle": "italic"
@@ -335,7 +332,6 @@
     {
       "scope": [
         "entity.name.constant",
-        "variable.other.constant",
         "variable.other.property",
         "variable.other.object.property",
         "variable.other.constant.property",
@@ -379,7 +375,11 @@
       }
     },
     {
-      "scope": ["variable.other.readwrite", "support.type.object.module"],
+      "scope": [
+        "variable.other.constant",
+        "variable.other.readwrite",
+        "support.type.object.module"
+      ],
       "settings": {
         "foreground": "#238f8f"
       }
