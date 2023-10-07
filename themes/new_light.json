@@ -361,6 +361,7 @@
     },
     {
       "scope": [
+        "source.css support.constant.property-value",
         "string",
         "markup.inline.raw",
         "markup.quote",
