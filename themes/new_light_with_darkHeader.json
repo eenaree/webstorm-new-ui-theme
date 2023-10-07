@@ -271,9 +271,6 @@
     },
     "method": {
       "foreground": "#7a7a43"
-    },
-    "method.declaration": {
-      "foreground": "#006279"
     }
   },
   "tokenColors": [
