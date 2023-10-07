@@ -235,7 +235,7 @@
       "foreground": "#861194"
     },
     "typeParameter": {
-      "foreground": "#080808"
+      "foreground": "#238f8f"
     },
     "type": {
       "foreground": "#080808"
@@ -375,6 +375,9 @@
     },
     {
       "scope": [
+        "entity.name.type.parameter",
+        "meta.type.parameters entity.name.type",
+        "meta.type.infer entity.name.type",
         "variable.other.constant",
         "variable.other.readwrite",
         "support.type.object.module"
