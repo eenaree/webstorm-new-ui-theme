@@ -232,6 +232,9 @@
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
+    "namespace": {
+      "foreground": "#861194"
+    },
     "variable": {
       "foreground": "#238f8f"
     },
@@ -331,6 +334,7 @@
     },
     {
       "scope": [
+        "entity.name.type.module",
         "entity.name.constant",
         "variable.other.property",
         "variable.other.object.property",
