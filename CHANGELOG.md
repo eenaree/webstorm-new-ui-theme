@@ -2,11 +2,22 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.1.0 (2023-10-09)
+
+### Minor
+
+- Adjust highlight color and style of semantic tokens
+  - [namespace](https://github.com/eenaree/webstorm-new-ui-theme/commit/358104d6bdd62ec0a0babde6570042ab70a346b8)
+  - [variable and class default library](https://github.com/eenaree/webstorm-new-ui-theme/commit/d33d24a267f8e4562d471a3d8059527fb0f175d6)
+  - simplify the color for [variable](https://github.com/eenaree/webstorm-new-ui-theme/commit/0e1c2ecffb1390f39d202d05d5781cda5452bf44) and [method](https://github.com/eenaree/webstorm-new-ui-theme/commit/5689540e8054a28863e2f0cefc246e9c886b049c) only in Light theme
+- Adjust color for attribute name ([6c363bf](https://github.com/eenaree/webstorm-new-ui-theme/commit/6c363bf28a1f7d1ec99ef4283fa515dba4cd2cdc), [53d59d0](https://github.com/eenaree/webstorm-new-ui-theme/commit/53d59d0d820ba7bc515c17db3fd11f63b121816c)) and [css property value](https://github.com/eenaree/webstorm-new-ui-theme/commit/d6f132ed9a6c1c30d1b49bc7a396ade7add6f77f) in Light theme
+- Update banner color and icon displayed in marketplace
+
 ## 2.0.0 (2023-10-01)
 
 ### Major
 
-- Add support for `New Light Theme` ([ee74813](https://github.com/eenaree/webstorm-new-ui-theme/commit/ee7481377a01dee80d25011860ffbf41ac102391))
+- Add support for `New Light Theme` [#4](https://github.com/eenaree/webstorm-new-ui-theme/pull/4)
 - Change displayName shown in marketplace
 
 ## 1.2.8 (2023-09-30)
