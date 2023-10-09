@@ -448,7 +448,6 @@
     },
     {
       "scope": [
-        "variable.other.link",
         "string.other.link",
         "constant.other.reference.link",
         "punctuation.definition.link.title.begin.markdown",
