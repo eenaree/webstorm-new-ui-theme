@@ -177,7 +177,7 @@
     "editorSuggestWidget.selectedBackground": "#113a5c",
     "editorSuggestWidget.focusHighlightForeground": "#589df6",
     "editorSuggestWidget.highlightForeground": "#589df6",
-    "editorHoverWidget.background": "#46484a",
+    "editorHoverWidget.background": "#4b4d4d",
     "editorHoverWidget.highlightForeground": "#589df6",
 
     "diffEditor.insertedTextBackground": "#385570",

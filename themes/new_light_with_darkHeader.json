@@ -183,13 +183,12 @@
     "editor.wordHighlightStrongBackground": "#fce8f4",
 
     "editorWidget.background": "#ffffff",
-    "editorWidget.foreground": "#27282d",
-    "editorWidget.border": "#d9d9d9",
-    "editorSuggestWidget.background": "#f7f8fa",
+    "editorWidget.foreground": "#000000",
+    "editorWidget.border": "#bababa",
     "editorSuggestWidget.selectedBackground": "#d5e1ff",
     "editorSuggestWidget.focusHighlightForeground": "#3474f0",
     "editorSuggestWidget.highlightForeground": "#3474f0",
-    "editorHoverWidget.background": "#f7f8fa",
+    "editorHoverWidget.highlightForeground": "#3474f0",
 
     "diffEditor.insertedTextBackground": "#bdd8f5",
     "diffEditor.insertedLineBackground": "#e5effb",
