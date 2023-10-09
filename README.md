@@ -50,6 +50,8 @@ For example, I've applied italic styles to built-in objects, types and interface
 "editor.fontFamily": "'Source Code Pro SemiBold'",
 "editor.inlayHints.fontSize": 12,
 "editor.inlayHints.padding": true,
+"editor.bracketPairColorization.enabled": false,
+"editor.guides.bracketPairs": "active",
 ```
 
 - Changing the color of the indented space uses [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) extension.
