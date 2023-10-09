@@ -163,6 +163,8 @@
     "editorInlayHint.typeBackground": "#f5f5f500",
     "editorInlayHint.parameterBackground": "#f5f5f5",
     "editorRuler.foreground": "#ebecf0",
+    "editorLightBulb.foreground": "#ffaf11",
+    "editorLightBulbAutoFix.foreground": "#f84961",
 
     "editor.findMatchBackground": "#ccccff",
     "editor.findMatchBorder": "#ecebfb",
