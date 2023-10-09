@@ -169,6 +169,7 @@
     "editorRuler.foreground": "#ebecf0",
     "editorLightBulb.foreground": "#ffaf11",
     "editorLightBulbAutoFix.foreground": "#f84961",
+    "editorLink.activeForeground": "#3474f0",
 
     "editor.findMatchBackground": "#ccccff",
     "editor.findMatchBorder": "#ecebfb",
@@ -216,7 +217,7 @@
     "merge.incomingContentBackground": "#385570",
 
     "textLink.foreground": "#315fbd",
-    "textLink.activeForeground": "#315fbd",
+    "textLink.activeForeground": "#3474f0",
 
     "settings.modifiedItemIndicator": "#3474f0",
     "settings.dropdownBackground": "#ffffff",

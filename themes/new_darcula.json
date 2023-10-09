@@ -155,6 +155,7 @@
     "editorRuler.foreground": "#3c3c3c",
     "editorLightBulb.foreground": "#f0a732",
     "editorLightBulbAutoFix.foreground": "#ed5157",
+    "editorLink.activeForeground": "#538af6",
 
     "editor.findMatchBackground": "#214283",
     "editor.findMatchBorder": "#bbbbbb",
