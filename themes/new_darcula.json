@@ -225,7 +225,8 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "namespace": {
-      "foreground": "#c77dbb"
+      "foreground": "#c77dbb",
+      "fontStyle": "italic"
     },
     "variable": {
       "foreground": "#a9b7c5"
