@@ -10,19 +10,19 @@ For example, I've applied italic styles to built-in objects, types and interface
 
 ### New Light
 
-![Webstorm New Light](./images/preview_new_light.png)
+![Webstorm New Light](https://raw.githubusercontent.com/eenaree/webstorm-new-ui-theme/main/images/preview_new_light.png)
 
 ### New Light with Dark Header
 
-![Webstorm New Light with Dark Header](./images/preview_new_light_with_darkHeader.png)
+![Webstorm New Light with Dark Header](https://raw.githubusercontent.com/eenaree/webstorm-new-ui-theme/main/images/preview_new_light_with_darkHeader.png)
 
 ### New Dark
 
-![Webstorm New Dark](./images/preview_new_dark.png)
+![Webstorm New Dark](https://raw.githubusercontent.com/eenaree/webstorm-new-ui-theme/main/images/preview_new_dark.png)
 
 ### New Darcula
 
-![Webstorm New Darcula](./images/preview_new_darcula.png)
+![Webstorm New Darcula](https://raw.githubusercontent.com/eenaree/webstorm-new-ui-theme/main/images/preview_new_darcula.png)
 
 ## Installation
 
