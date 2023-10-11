@@ -2,6 +2,17 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.1.1 (2023-10-11)
+
+### Patch
+
+- Remove color for links in jsdoc for matching WebStorm theme ([44c9176](https://github.com/eenaree/webstorm-new-ui-theme/commit/44c91769d8eb48326a7bd7cc5c83bf572ce62a19))
+- Add italic style to namespace in Dark theme ([014a360](https://github.com/eenaree/webstorm-new-ui-theme/commit/014a360f8ec61c7e3cba19a4fba134716d5d059d))
+- Adjust colors in the workbench
+  - [lightbulb actions icon](https://github.com/eenaree/webstorm-new-ui-theme/commit/525814a42c9d0ff9ac2469a43f6c05b85789864c)
+  - [editorLink and textLink active foreground](https://github.com/eenaree/webstorm-new-ui-theme/commit/839c6d21ca87beab02c290897f203029f5d84e4d)
+  - [editor widget](https://github.com/eenaree/webstorm-new-ui-theme/commit/26e0e01653ca408ed1e637671589e86c97bce389)
+
 ## 2.1.0 (2023-10-09)
 
 ### Minor
