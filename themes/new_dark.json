@@ -300,6 +300,13 @@
       }
     },
     {
+      "scope": ["source.css.scss comment"],
+      "settings": {
+        "foreground": "#b9954e",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "scope": [
         "keyword",
         "keyword.operator.new",
