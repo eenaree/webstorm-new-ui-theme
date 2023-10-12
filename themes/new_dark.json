@@ -425,7 +425,6 @@
         "variable.other.object",
         "entity.name.type",
         "entity.name.function.tagged-template",
-        "support.type.vendored.property-name",
         "constant.language.import-export-all",
         "string variable",
         "source.yaml string.unquoted",
@@ -450,7 +449,11 @@
       }
     },
     {
-      "scope": ["entity.other.attribute-name", "support.type.property-name"],
+      "scope": [
+        "entity.other.attribute-name",
+        "support.type.property-name",
+        "support.type.vendored.property-name"
+      ],
       "settings": {
         "foreground": "#bababa"
       }

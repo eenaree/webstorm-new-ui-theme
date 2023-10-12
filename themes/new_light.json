@@ -394,6 +394,7 @@
       "scope": [
         "entity.other.attribute-name",
         "support.type.property-name",
+        "support.type.vendored.property-name",
         "constant.other.character-class.regexp"
       ],
       "settings": {
