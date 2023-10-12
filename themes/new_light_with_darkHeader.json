@@ -295,6 +295,7 @@
     },
     {
       "scope": [
+        "meta.property-value variable.argument.css",
         "keyword",
         "keyword.operator.new",
         "keyword.operator.expression",
@@ -342,7 +343,7 @@
         "variable.other.object.property",
         "variable.other.constant.property",
         "variable.other.enummember",
-        "source.css variable",
+        "variable.scss",
         "meta.object-literal.key",
         "meta.definition.property",
         "support.type.property-name.json",
@@ -396,6 +397,7 @@
     },
     {
       "scope": [
+        "meta.property-list variable.css",
         "entity.other.attribute-name",
         "support.type.property-name",
         "support.type.vendored.property-name",

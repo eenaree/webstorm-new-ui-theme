@@ -450,6 +450,7 @@
     },
     {
       "scope": [
+        "meta.property-list variable.css",
         "entity.other.attribute-name",
         "support.type.property-name",
         "support.type.vendored.property-name"
@@ -504,6 +505,12 @@
       }
     },
     {
+      "scope": ["variable.scss"],
+      "settings": {
+        "foreground": "#6d9cbe"
+      }
+    },
+    {
       "scope": [
         "entity.name.tag",
         "entity.other.attribute-name.id",
@@ -516,8 +523,7 @@
         "punctuation.definition.tag",
         "storage.type.annotation",
         "variable.interpolation",
-        "variable.css",
-        "variable.argument.css",
+        "meta.property-value variable.argument.css",
         "source.css support.constant.language-range",
         "source.css support.function"
       ],
