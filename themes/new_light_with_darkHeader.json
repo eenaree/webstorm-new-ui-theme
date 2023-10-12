@@ -382,6 +382,7 @@
     },
     {
       "scope": [
+        "keyword.control.at-rule.mixin.scss",
         "entity.name.type.parameter",
         "meta.type.parameters entity.name.type",
         "meta.type.infer entity.name.type",

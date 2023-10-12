@@ -361,6 +361,12 @@
       }
     },
     {
+      "scope": ["keyword.control.at-rule.mixin.scss"],
+      "settings": {
+        "foreground": "#d0cfff"
+      }
+    },
+    {
       "scope": [
         "string",
         "punctuation.definition.metadata.markdown",
