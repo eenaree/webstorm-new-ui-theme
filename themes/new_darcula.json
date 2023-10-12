@@ -507,6 +507,7 @@
         "variable.interpolation",
         "variable.css",
         "variable.argument.css",
+        "source.css support.constant.language-range",
         "source.css support.function"
       ],
       "settings": {
