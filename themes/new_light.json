@@ -315,8 +315,7 @@
         "punctuation.definition.italic.markdown",
         "punctuation.definition.list.begin.markdown",
         "punctuation.definition.quote.begin.markdown",
-        "source.css support.function",
-        "source.css support.constant"
+        "source.css support.function"
       ],
       "settings": {
         "foreground": "#0133b3",
@@ -359,7 +358,7 @@
     },
     {
       "scope": [
-        "source.css support.constant.property-value",
+        "source.css support.constant",
         "string",
         "markup.inline.raw",
         "markup.quote",
