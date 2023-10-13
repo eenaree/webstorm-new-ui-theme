@@ -305,6 +305,7 @@
         "constant.other.color.rgb-value",
         "variable.language",
         "variable.key.dotenv",
+        "variable.parameter.keyframe-list.css",
         "entity.name.tag",
         "entity.name.command",
         "entity.other.attribute-name.id",
@@ -469,7 +470,7 @@
       }
     },
     {
-      "scope": ["entity.name.function", "variable.parameter.keyframe-list"],
+      "scope": ["entity.name.function"],
       "settings": {
         "foreground": "#006279",
         "fontStyle": ""

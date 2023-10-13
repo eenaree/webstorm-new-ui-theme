@@ -497,8 +497,7 @@
       "scope": [
         "constant.other.color.rgb-value",
         "entity.name.function",
-        "string.other.link.description.title.markdown",
-        "variable.parameter.keyframe-list"
+        "string.other.link.description.title.markdown"
       ],
       "settings": {
         "foreground": "#57a8f5",
@@ -513,6 +512,7 @@
     },
     {
       "scope": [
+        "variable.parameter.keyframe-list.css",
         "entity.name.tag",
         "entity.other.attribute-name.id",
         "entity.other.attribute-name.id punctuation.definition.entity",
