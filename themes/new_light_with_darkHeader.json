@@ -497,6 +497,12 @@
       }
     },
     {
+      "scope": ["invalid"],
+      "settings": {
+        "foreground": "#ff0000"
+      }
+    },
+    {
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic"
