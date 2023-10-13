@@ -423,6 +423,7 @@
       "scope": [
         "meta.tag.attributes",
         "variable.other.object",
+        "variable.interpolation",
         "entity.name.type",
         "entity.name.function.tagged-template",
         "constant.language.import-export-all",
@@ -522,7 +523,6 @@
         "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
-        "variable.interpolation",
         "meta.property-value variable.argument.css",
         "source.css support.constant.language-range",
         "source.css support.function"

@@ -414,6 +414,7 @@
     {
       "scope": [
         "meta.tag.attributes",
+        "variable.interpolation",
         "variable.other.object",
         "entity.name.type",
         "entity.name.function.tagged-template",
@@ -514,7 +515,6 @@
         "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
-        "variable.interpolation",
         "meta.property-value variable.argument.css",
         "source.css support.constant.language-range",
         "source.css support.function"
