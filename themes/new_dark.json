@@ -529,6 +529,8 @@
         "punctuation.definition.tag",
         "storage.type.annotation",
         "meta.property-value variable.argument.css",
+        "constant.other.scss",
+        "support.constant.parity.css",
         "source.css support.constant.language-range",
         "source.css support.function"
       ],
