@@ -512,6 +512,8 @@
         "entity.other.attribute-name.pseudo-class",
         "entity.other.attribute-name.pseudo-element",
         "entity.other.attribute-name.scss",
+        "entity.other.attribute-name.css",
+        "entity.other.attribute-name.attribute.scss",
         "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
