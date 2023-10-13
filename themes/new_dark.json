@@ -523,6 +523,8 @@
         "entity.other.attribute-name.css",
         "entity.other.attribute-name.attribute.scss",
         "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity",
+        "entity.other.attribute-name.placeholder.css",
+        "entity.other.attribute-name.placeholder.css punctuation.definition.entity",
         "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
