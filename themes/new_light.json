@@ -327,6 +327,7 @@
         "punctuation.definition.italic.markdown",
         "punctuation.definition.list.begin.markdown",
         "punctuation.definition.quote.begin.markdown",
+        "source.css entity.name.function",
         "source.css support.constant.language-range",
         "source.css support.function"
       ],
