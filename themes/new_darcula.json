@@ -292,6 +292,13 @@
       }
     },
     {
+      "scope": ["source.css.scss comment"],
+      "settings": {
+        "foreground": "#b9954e",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "scope": [
         "keyword",
         "keyword.operator.new",
@@ -354,6 +361,12 @@
       }
     },
     {
+      "scope": ["keyword.control.at-rule.mixin.scss"],
+      "settings": {
+        "foreground": "#d0cfff"
+      }
+    },
+    {
       "scope": [
         "string",
         "punctuation.definition.metadata.markdown",
@@ -364,6 +377,7 @@
         "keyword.other.unit",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
+        "meta.at-rule.each keyword.control.operator",
         "meta.attribute-selector",
         "meta.tag.attributes keyword.operator.assignment"
       ],
@@ -401,10 +415,11 @@
     {
       "scope": [
         "meta.tag.attributes",
+        "meta.at-rule.for keyword.control.operator",
+        "variable.interpolation",
         "variable.other.object",
         "entity.name.type",
         "entity.name.function.tagged-template",
-        "support.type.vendored.property-name",
         "constant.language.import-export-all",
         "string variable",
         "source.yaml string.unquoted",
@@ -429,7 +444,12 @@
       }
     },
     {
-      "scope": ["entity.other.attribute-name", "support.type.property-name"],
+      "scope": [
+        "meta.property-list variable.css",
+        "entity.other.attribute-name",
+        "support.type.property-name",
+        "support.type.vendored.property-name"
+      ],
       "settings": {
         "foreground": "#bababa"
       }
@@ -471,8 +491,7 @@
       "scope": [
         "constant.other.color.rgb-value",
         "entity.name.function",
-        "string.other.link.description.title.markdown",
-        "variable.parameter.keyframe-list"
+        "string.other.link.description.title.markdown"
       ],
       "settings": {
         "foreground": "#57a8f5",
@@ -481,6 +500,24 @@
     },
     {
       "scope": [
+        "variable.parameter.url.css",
+        "meta.property-value variable.parameter.url",
+        "meta.at-rule.namespace variable.parameter.url"
+      ],
+      "settings": {
+        "foreground": "#5c92ff"
+      }
+    },
+    {
+      "scope": ["variable.scss"],
+      "settings": {
+        "foreground": "#6d9cbe"
+      }
+    },
+    {
+      "scope": [
+        "variable.parameter.misc.css",
+        "variable.parameter.keyframe-list.css",
         "entity.name.tag",
         "entity.other.attribute-name.id",
         "entity.other.attribute-name.id punctuation.definition.entity",
@@ -488,12 +525,23 @@
         "entity.other.attribute-name.pseudo-class",
         "entity.other.attribute-name.pseudo-element",
         "entity.other.attribute-name.scss",
+        "entity.other.attribute-name.css",
+        "entity.other.attribute-name.attribute.scss",
+        "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity",
+        "entity.other.attribute-name.placeholder.css",
+        "entity.other.attribute-name.placeholder.css punctuation.definition.entity",
         "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
-        "variable.interpolation",
-        "variable.css",
-        "variable.argument.css",
+        "meta.at-rule.media keyword.operator",
+        "meta.at-rule.media keyword.control.operator",
+        "meta.attribute-selector string.unquoted.attribute-value",
+        "meta.property-value variable.argument.css",
+        "constant.other.scss",
+        "support.constant.parity.css",
+        "source.css entity.name.function",
+        "source.css support.type.map.key",
+        "source.css support.constant.language-range",
         "source.css support.function"
       ],
       "settings": {
@@ -508,6 +556,12 @@
       ],
       "settings": {
         "foreground": "#b3ae60"
+      }
+    },
+    {
+      "scope": ["invalid"],
+      "settings": {
+        "foreground": "#ff0000"
       }
     },
     {

@@ -295,15 +295,21 @@
     },
     {
       "scope": [
+        "meta.attribute-selector string.unquoted.attribute-value",
+        "meta.property-value variable.argument.css",
         "keyword",
         "keyword.operator.new",
         "keyword.operator.expression",
         "storage",
         "support.type",
+        "support.constant.parity.css",
         "constant.language",
+        "constant.other.scss",
         "constant.other.color.rgb-value",
         "variable.language",
         "variable.key.dotenv",
+        "variable.parameter.keyframe-list.css",
+        "variable.parameter.misc.css",
         "entity.name.tag",
         "entity.name.command",
         "entity.other.attribute-name.id",
@@ -311,6 +317,12 @@
         "entity.other.attribute-name.class",
         "entity.other.attribute-name.pseudo-class",
         "entity.other.attribute-name.pseudo-element",
+        "entity.other.attribute-name.css",
+        "entity.other.attribute-name.scss",
+        "entity.other.attribute-name.attribute.scss",
+        "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity",
+        "entity.other.attribute-name.placeholder.css",
+        "entity.other.attribute-name.placeholder.css punctuation.definition.entity",
         "entity.other.keyframe-offset",
         "constant.character.escape",
         "punctuation.definition.markdown",
@@ -319,8 +331,9 @@
         "punctuation.definition.italic.markdown",
         "punctuation.definition.list.begin.markdown",
         "punctuation.definition.quote.begin.markdown",
-        "source.css support.function",
-        "source.css support.constant"
+        "source.css entity.name.function",
+        "source.css support.constant.language-range",
+        "source.css support.function"
       ],
       "settings": {
         "foreground": "#0133b3",
@@ -342,7 +355,7 @@
         "variable.other.object.property",
         "variable.other.constant.property",
         "variable.other.enummember",
-        "source.css variable",
+        "variable.scss",
         "meta.object-literal.key",
         "meta.definition.property",
         "support.type.property-name.json",
@@ -363,7 +376,7 @@
     },
     {
       "scope": [
-        "source.css support.constant.property-value",
+        "source.css support.constant",
         "string",
         "markup.inline.raw",
         "markup.quote",
@@ -373,6 +386,7 @@
         "keyword.other.unit",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
+        "meta.at-rule.each keyword.control.operator",
         "meta.attribute-selector",
         "meta.tag.attributes keyword.operator.assignment"
       ],
@@ -382,6 +396,7 @@
     },
     {
       "scope": [
+        "keyword.control.at-rule.mixin.scss",
         "entity.name.type.parameter",
         "meta.type.parameters entity.name.type",
         "meta.type.infer entity.name.type",
@@ -395,8 +410,10 @@
     },
     {
       "scope": [
+        "meta.property-list variable.css",
         "entity.other.attribute-name",
         "support.type.property-name",
+        "support.type.vendored.property-name",
         "constant.other.character-class.regexp"
       ],
       "settings": {
@@ -416,6 +433,8 @@
     },
     {
       "scope": [
+        "meta.at-rule.media keyword.control.operator",
+        "meta.at-rule.for keyword.control.operator",
         "variable.interpolation",
         "variable.other.object",
         "variable.other.jsdoc",
@@ -425,7 +444,6 @@
         "string variable",
         "source.yaml string.unquoted",
         "source.yaml constant.language.boolean",
-        "source.css variable.parameter",
         "keyword.operator",
         "keyword.other.unit.percentage",
         "keyword.other.back-reference.regexp",
@@ -465,7 +483,7 @@
       }
     },
     {
-      "scope": ["entity.name.function", "variable.parameter.keyframe-list"],
+      "scope": ["entity.name.function"],
       "settings": {
         "foreground": "#006279",
         "fontStyle": ""
@@ -482,6 +500,12 @@
       "scope": ["punctuation.decorator", "meta.decorator entity.name.function"],
       "settings": {
         "foreground": "#9e880d"
+      }
+    },
+    {
+      "scope": ["invalid"],
+      "settings": {
+        "foreground": "#ff0000"
       }
     },
     {
