@@ -377,6 +377,7 @@
         "keyword.other.unit",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
+        "meta.at-rule.each keyword.control.operator",
         "meta.attribute-selector",
         "meta.tag.attributes keyword.operator.assignment"
       ],
@@ -414,6 +415,7 @@
     {
       "scope": [
         "meta.tag.attributes",
+        "meta.at-rule.for keyword.control.operator",
         "variable.interpolation",
         "variable.other.object",
         "entity.name.type",
@@ -531,6 +533,8 @@
         "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
+        "meta.at-rule.media keyword.operator",
+        "meta.at-rule.media keyword.control.operator",
         "meta.attribute-selector string.unquoted.attribute-value",
         "meta.property-value variable.argument.css",
         "constant.other.scss",

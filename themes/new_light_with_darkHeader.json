@@ -385,6 +385,7 @@
         "keyword.other.unit",
         "constant.other.character-class.set.regexp",
         "constant.other.character-class.range.regexp",
+        "meta.at-rule.each keyword.control.operator",
         "meta.attribute-selector",
         "meta.tag.attributes keyword.operator.assignment"
       ],
@@ -431,6 +432,8 @@
     },
     {
       "scope": [
+        "meta.at-rule.media keyword.control.operator",
+        "meta.at-rule.for keyword.control.operator",
         "variable.interpolation",
         "variable.other.object",
         "variable.other.jsdoc",
