@@ -431,6 +431,7 @@
       "scope": [
         "meta.at-rule.media keyword.control.operator",
         "meta.at-rule.for keyword.control.operator",
+        "meta.tag.metadata.doctype.html entity.name.tag",
         "variable.interpolation",
         "variable.other.object",
         "variable.other.jsdoc",
