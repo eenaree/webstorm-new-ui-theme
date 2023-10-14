@@ -497,6 +497,16 @@
       }
     },
     {
+      "scope": [
+        "variable.parameter.url.css",
+        "meta.property-value variable.parameter.url",
+        "meta.at-rule.namespace variable.parameter.url"
+      ],
+      "settings": {
+        "foreground": "#5c92ff"
+      }
+    },
+    {
       "scope": ["variable.scss"],
       "settings": {
         "foreground": "#6d9cbe"
@@ -504,6 +514,7 @@
     },
     {
       "scope": [
+        "variable.parameter.misc.css",
         "variable.parameter.keyframe-list.css",
         "entity.name.tag",
         "entity.other.attribute-name.id",
