@@ -2,6 +2,13 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.2.0 (2023-10-14)
+
+### Minor
+
+- Adjust HTML doctype declaration color in Light theme ([0879e1f](https://github.com/eenaree/webstorm-new-ui-theme/commit/0879e1fe44323887110227d98a7c65556aae173d))
+- Improve CSS Syntax highlight (support for SCSS) [#5](https://github.com/eenaree/webstorm-new-ui-theme/pull/5)
+
 ## 2.1.1 (2023-10-11)
 
 ### Patch
