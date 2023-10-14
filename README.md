@@ -40,7 +40,7 @@ For example, I've applied italic styles to built-in objects, types and interface
 - JavaScript
 - TypeScript
 - HTML
-- CSS
+- CSS, SCSS
 - Markdown
 - JSON
 
