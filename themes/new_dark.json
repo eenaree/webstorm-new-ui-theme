@@ -539,6 +539,7 @@
         "entity.other.keyframe-offset",
         "punctuation.definition.tag",
         "storage.type.annotation",
+        "meta.attribute-selector string.unquoted.attribute-value",
         "meta.property-value variable.argument.css",
         "constant.other.scss",
         "support.constant.parity.css",

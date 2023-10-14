@@ -295,6 +295,7 @@
     },
     {
       "scope": [
+        "meta.attribute-selector string.unquoted.attribute-value",
         "meta.property-value variable.argument.css",
         "keyword",
         "keyword.operator.new",
