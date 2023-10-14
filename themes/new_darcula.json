@@ -540,6 +540,7 @@
         "constant.other.scss",
         "support.constant.parity.css",
         "source.css entity.name.function",
+        "source.css support.type.map.key",
         "source.css support.constant.language-range",
         "source.css support.function"
       ],
