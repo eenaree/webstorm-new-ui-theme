@@ -220,7 +220,11 @@
     "settings.numberInputBorder": "#646464",
     "settings.textInputBackground": "#45494a",
     "settings.textInputForeground": "#bbbbbb",
-    "settings.textInputBorder": "#646464"
+    "settings.textInputBorder": "#646464",
+
+    "welcomePage.background": "#2b2b2b",
+    "welcomePage.tileBackground": "#3b3f41",
+    "welcomePage.tileHoverBackground": "#464a4d"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {

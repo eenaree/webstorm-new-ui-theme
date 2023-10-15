@@ -230,7 +230,11 @@
     "settings.numberInputBorder": "#c8ccd6",
     "settings.textInputBackground": "#ffffff",
     "settings.textInputForeground": "#000000",
-    "settings.textInputBorder": "#c8ccd6"
+    "settings.textInputBorder": "#c8ccd6",
+
+    "welcomePage.background": "#ffffff",
+    "welcomePage.tileBackground": "#f7f8fa",
+    "welcomePage.tileHoverBackground": "#ebecf0"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
