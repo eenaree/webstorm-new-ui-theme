@@ -161,7 +161,7 @@
     "editorInlayHint.parameterBackground": "#333333",
     "editorRuler.foreground": "#3c3c3c",
     "editorLightBulb.foreground": "#f0a732",
-    "editorLightBulbAutoFix.foreground": "#ed5157",
+    "editorLightBulbAutoFix.foreground": "#c75450",
     "editorLink.activeForeground": "#538af6",
 
     "editor.findMatchBackground": "#214283",
