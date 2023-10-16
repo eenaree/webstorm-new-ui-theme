@@ -100,7 +100,7 @@
     "notificationLink.foreground": "#589df6",
 
     "editorGroup.border": "#323232",
-    "editorGroup.emptyBackground": "#313336",
+    "editorGroup.emptyBackground": "#2b2b2b",
     "editorGroupHeader.noTabsBackground": "#3b3f41",
     "editorGroupHeader.tabsBackground": "#3b3f41",
     "editorGroupHeader.tabsBorder": "#323232",
