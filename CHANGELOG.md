@@ -2,6 +2,17 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.2.1 (2023-10-16)
+
+### Patch
+
+- Adjust colors in the workbench
+  - [welcome page](https://github.com/eenaree/webstorm-new-ui-theme/commit/0e2ae910b92853b9a4376fc9e602c7ed6ff6ec0e)
+  - [empty editor group background](https://github.com/eenaree/webstorm-new-ui-theme/commit/b741c64014a44ba53d9cad8632c99fc7233ddd2f)
+  - input controls ([Dark](https://github.com/eenaree/webstorm-new-ui-theme/commit/e5f9f814a465382ca14c9d0f18e294c4dc60cd89), [Light](https://github.com/eenaree/webstorm-new-ui-theme/commit/b6985706b44d9a2fc0e703a28fab87f5fa19bd11))
+  - [icon used for problems and notifications](https://github.com/eenaree/webstorm-new-ui-theme/commit/ca806ab850749ff296b637151568cfa42d3cf29d)
+  - [lightbulb actions icon](https://github.com/eenaree/webstorm-new-ui-theme/commit/17f5a1295d56216d2791a518229bbdf7f4fdd843)
+
 ## 2.2.0 (2023-10-14)
 
 ### Minor
