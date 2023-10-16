@@ -45,11 +45,11 @@
     "sideBarSectionHeader.border": "#323232",
 
     "input.border": "#323232",
-    "input.background": "#44494a",
+    "input.background": "#45494a",
     "input.foreground": "#bababa",
-    "inputOption.activeBackground": "#5b6164",
-    "inputOption.activeForeground": "#00b9e5",
-    "inputOption.activeBorder": "#00000000",
+    "inputOption.activeBackground": "#45494a",
+    "inputOption.activeForeground": "#40b6e0",
+    "inputOption.activeBorder": "#45494a",
 
     "button.background": "#365880",
     "button.border": "#5f6060",
