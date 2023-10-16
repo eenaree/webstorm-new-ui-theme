@@ -81,6 +81,10 @@
     "dropdown.background": "#3b3f41",
     "dropdown.foreground": "#bababa",
 
+    "problemsErrorIcon.foreground": "#9e2927",
+    "problemsWarningIcon.foreground": "#be9117",
+    "problemsInfoIcon.foreground": "#3592c4",
+
     "statusBar.background": "#3b3f41",
     "statusBar.border": "#4e4e4e",
     "statusBar.foreground": "#bababa",
@@ -98,6 +102,9 @@
     "notifications.background": "#4c5052",
     "notifications.border": "#323232",
     "notificationLink.foreground": "#589df6",
+    "notificationsErrorIcon.foreground": "#9e2927",
+    "notificationsWarningIcon.foreground": "#be9117",
+    "notificationsInfoIcon.foreground": "#3592c4",
 
     "editorGroup.border": "#323232",
     "editorGroup.emptyBackground": "#2b2b2b",
