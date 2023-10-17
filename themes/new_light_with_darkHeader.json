@@ -64,6 +64,7 @@
     "button.secondaryForeground": "#000000",
     "button.secondaryHoverBackground": "#c8ccd6",
 
+    "badge.background": "#c8ccd6",
     "badge.foreground": "#000000",
 
     "gitDecoration.addedResourceForeground": "#0a7700",
