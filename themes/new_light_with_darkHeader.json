@@ -110,7 +110,7 @@
     "notificationCenterHeader.background": "#f7f8fa",
     "notificationToast.border": "#dfe1e5",
     "notifications.foreground": "#000000",
-    "notifications.background": "#ffffff",
+    "notifications.background": "#ebecf0",
     "notifications.border": "#dfe1e5",
     "notificationLink.foreground": "#315fbd",
     "notificationsErrorIcon.foreground": "#cf5b56",
