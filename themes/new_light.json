@@ -160,7 +160,7 @@
     "editorGutter.background": "#ffffff",
     "editorGutter.addedBackground": "#7fc783",
     "editorGutter.modifiedBackground": "#88adf7",
-    "editorGutter.deletedBackground": "#9f9f9f",
+    "editorGutter.deletedBackground": "#767a8a",
     "editorGutter.foldingControlForeground": "#a8adbd",
     "editorLineNumber.activeForeground": "#757a89",
     "editorLineNumber.foreground": "#aeb3c1",
