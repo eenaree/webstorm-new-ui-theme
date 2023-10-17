@@ -177,9 +177,9 @@
     "editorLink.activeForeground": "#538af6",
 
     "editor.findMatchBackground": "#214283",
-    "editor.findMatchBorder": "#bbbbbb",
-    "editor.findMatchHighlightBackground": "#32593d",
-    "editor.findMatchHighlightBorder": "#3c704b",
+    "editor.findMatchBorder": "#cdd0d5",
+    "editor.findMatchHighlightBackground": "#124957",
+    "editor.findMatchHighlightBorder": "#155e70",
     "editor.findRangeHighlightBackground": "#1e4684",
     "editor.lineHighlightBackground": "#26282d",
     "editor.selectionBackground": "#134388",
