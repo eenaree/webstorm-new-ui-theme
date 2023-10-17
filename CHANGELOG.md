@@ -2,6 +2,20 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.2.2 (2023-10-18)
+
+- Adjust colors in the workbench
+  - Light
+    - information badge ([8f17247](https://github.com/eenaree/webstorm-new-ui-theme/commit/8f17247286a15ee0fcd3e619f8834c17f74849e2))
+    - notifications background ([b2630ea](https://github.com/eenaree/webstorm-new-ui-theme/commit/b2630eaf5c9d691e8442702aa6e5b7fe8ac0f3d4))
+    - editor gutter background of deleted line ([8e4385f](https://github.com/eenaree/webstorm-new-ui-theme/commit/8e4385f4fe5664e8d11bc262448ff5654e5913ff))
+  - Dark
+    - information badge ([593229f](https://github.com/eenaree/webstorm-new-ui-theme/commit/593229f203d2336cc3c596d05e0f1ac8c28077fd))
+    - New Darcula
+      - activitybar, sidebar header, lists and trees hover and drop background, editor ruler ([d91db78](https://github.com/eenaree/webstorm-new-ui-theme/commit/d91db784b83cf242c1e734752ae18b98f5dd50f7))
+    - New Dark
+      - search match ([2ce8914](https://github.com/eenaree/webstorm-new-ui-theme/commit/2ce8914d957afc7238b4d0ff234ce23f4e123c7b))
+
 ## 2.2.1 (2023-10-16)
 
 ### Patch
