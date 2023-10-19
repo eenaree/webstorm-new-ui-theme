@@ -2,19 +2,29 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.2.3 (2023-10-19)
+
+### Patch
+
+- Adjust colors in the workbench
+  - Dark
+    - Adjust unfocused and inactive tab foreground in New Dark theme ([d3cca25](https://github.com/eenaree/webstorm-new-ui-theme/commit/d3cca25e5ca2ef570a911ce8f75cca6625cf29f3))
+    - Improve hover and drop background for lists and welcome page tiles ([a3c051b](https://github.com/eenaree/webstorm-new-ui-theme/commit/a3c051bd7f0d7b9f3f9d6e43deef255b11cf5fe0))
+    - Lower the background brightness of badge ([bcae7e2](https://github.com/eenaree/webstorm-new-ui-theme/commit/bcae7e29048c9cd3a052bd1db9ec38fa5834290e))
+
 ## 2.2.2 (2023-10-18)
+
+### Patch
 
 - Adjust colors in the workbench
   - Light
-    - information badge ([8f17247](https://github.com/eenaree/webstorm-new-ui-theme/commit/8f17247286a15ee0fcd3e619f8834c17f74849e2))
-    - notifications background ([b2630ea](https://github.com/eenaree/webstorm-new-ui-theme/commit/b2630eaf5c9d691e8442702aa6e5b7fe8ac0f3d4))
-    - editor gutter background of deleted line ([8e4385f](https://github.com/eenaree/webstorm-new-ui-theme/commit/8e4385f4fe5664e8d11bc262448ff5654e5913ff))
+    - Adjust notifications background ([b2630ea](https://github.com/eenaree/webstorm-new-ui-theme/commit/b2630eaf5c9d691e8442702aa6e5b7fe8ac0f3d4))
+    - Improve editor gutter background visibility of deleted lines ([8e4385f](https://github.com/eenaree/webstorm-new-ui-theme/commit/8e4385f4fe5664e8d11bc262448ff5654e5913ff))
+    - Match the information badge to the color tone ([8f17247](https://github.com/eenaree/webstorm-new-ui-theme/commit/8f17247286a15ee0fcd3e619f8834c17f74849e2))
   - Dark
-    - information badge ([593229f](https://github.com/eenaree/webstorm-new-ui-theme/commit/593229f203d2336cc3c596d05e0f1ac8c28077fd))
-    - New Darcula
-      - activitybar, sidebar header, lists and trees hover and drop background, editor ruler ([d91db78](https://github.com/eenaree/webstorm-new-ui-theme/commit/d91db784b83cf242c1e734752ae18b98f5dd50f7))
-    - New Dark
-      - search match ([2ce8914](https://github.com/eenaree/webstorm-new-ui-theme/commit/2ce8914d957afc7238b4d0ff234ce23f4e123c7b))
+    - Make information badge more visible ([593229f](https://github.com/eenaree/webstorm-new-ui-theme/commit/593229f203d2336cc3c596d05e0f1ac8c28077fd))
+    - Improve colors in Darcula theme: activity bar, side bar, lists and trees, editor ruler ([d91db78](https://github.com/eenaree/webstorm-new-ui-theme/commit/d91db784b83cf242c1e734752ae18b98f5dd50f7))
+    - Adjust colors of the search match in New Dark theme ([2ce8914](https://github.com/eenaree/webstorm-new-ui-theme/commit/2ce8914d957afc7238b4d0ff234ce23f4e123c7b))
 
 ## 2.2.1 (2023-10-16)
 
