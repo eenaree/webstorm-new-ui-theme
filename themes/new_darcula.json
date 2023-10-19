@@ -22,8 +22,8 @@
     "list.focusHighlightForeground": "#c5a542",
     "list.highlightForeground": "#c5a542",
     "list.inactiveSelectionBackground": "#0e293e",
-    "list.hoverBackground": "#5c6164",
-    "list.dropBackground": "#5c6164",
+    "list.hoverBackground": "#464a4d",
+    "list.dropBackground": "#464a4d",
 
     "activityBar.background": "#3b3f41",
     "activityBar.border": "#323232",
@@ -231,7 +231,7 @@
 
     "welcomePage.background": "#2b2b2b",
     "welcomePage.tileBackground": "#3b3f41",
-    "welcomePage.tileHoverBackground": "#5c6164"
+    "welcomePage.tileHoverBackground": "#464a4d"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
