@@ -24,6 +24,7 @@
     "list.focusHighlightForeground": "#ba9752",
     "list.highlightForeground": "#ba9752",
     "list.inactiveSelectionBackground": "#42454a",
+    "list.hoverForeground": "#ffffff",
     "list.hoverBackground": "#393b40",
     "list.dropBackground": "#393b40",
 
@@ -256,7 +257,7 @@
       "fontStyle": "italic"
     },
     "parameter": {
-      "foreground": "#bcbec3",
+      "foreground": "#bcbec3"
     },
     "typeParameter": {
       "foreground": "#507874"
