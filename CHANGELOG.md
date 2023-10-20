@@ -2,6 +2,16 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.3.0 (2023-10-20)
+
+### Minor
+
+- Improve darcula theme workbench colors more accuate ([e220374](https://github.com/eenaree/webstorm-new-ui-theme/commit/e220374579bf7e3cf900fc873964e7b7fb6102da))
+
+### Patch
+
+- Improve text visibility when hovering over a list in Dark theme ([44a0d98](https://github.com/eenaree/webstorm-new-ui-theme/commit/44a0d987ce99bae91662c336fe3c65242587b648))
+
 ## 2.2.3 (2023-10-19)
 
 ### Patch
