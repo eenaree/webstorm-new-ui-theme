@@ -9,8 +9,8 @@ All notable changes to the "webstorm-new-ui" extension will be documented in thi
 - Adjust colors in the workbench
   - Dark
     - Adjust unfocused and inactive tab foreground in New Dark theme ([d3cca25](https://github.com/eenaree/webstorm-new-ui-theme/commit/d3cca25e5ca2ef570a911ce8f75cca6625cf29f3))
-    - Improve hover and drop background for lists and welcome page tiles ([a3c051b](https://github.com/eenaree/webstorm-new-ui-theme/commit/a3c051bd7f0d7b9f3f9d6e43deef255b11cf5fe0))
-    - Lower the background brightness of badge ([bcae7e2](https://github.com/eenaree/webstorm-new-ui-theme/commit/bcae7e29048c9cd3a052bd1db9ec38fa5834290e))
+    - Improve hover and drop background for lists and welcome page tiles ([6d05c60](https://github.com/eenaree/webstorm-new-ui-theme/commit/6d05c60bc328960bd46c962b40d00772c6e5e201))
+    - Lower the background brightness of badge ([4f59b62](https://github.com/eenaree/webstorm-new-ui-theme/commit/4f59b62314c22e57bf2c5c7aeb0d59c47e78c2b8))
 
 ## 2.2.2 (2023-10-18)
 
