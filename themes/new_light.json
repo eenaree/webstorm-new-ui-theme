@@ -514,7 +514,7 @@
     {
       "scope": ["invalid"],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#f50000"
       }
     },
     {
