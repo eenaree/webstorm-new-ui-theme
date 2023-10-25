@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.3.1 (2023-10-26)
+
+### Patch
+
+- Adjust color for `invalid` textmate more accurate ([842941b](https://github.com/eenaree/webstorm-new-ui-theme/commit/842941b6bd1cfcdaaaccbb4d0b88f04b48379adc))
+
 ## 2.3.0 (2023-10-20)
 
 ### Minor
