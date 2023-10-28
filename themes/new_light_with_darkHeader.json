@@ -213,12 +213,14 @@
     "editorOverviewRuler.warningForeground": "#f1bf56",
     "editorOverviewRuler.infoForeground": "#4781fa",
 
-    "diffEditor.insertedTextBackground": "#bdd8f5",
-    "diffEditor.insertedLineBackground": "#e5effb",
-    "diffEditorGutter.insertedLineBackground": "#e5effb",
+    "diffEditor.insertedTextBackground": "#c2d8f2",
+    "diffEditor.insertedLineBackground": "#e6effa",
+    "diffEditorGutter.insertedLineBackground": "#e6effa",
     "diffEditor.removedTextBackground": "#d6d6d6",
     "diffEditor.removedLineBackground": "#ebecf0",
     "diffEditorGutter.removedLineBackground": "#ebecf0",
+    "diffEditorOverview.insertedForeground": "#b6d2f2",
+    "diffEditorOverview.removedForeground": "#c8c8c8",
 
     "peekView.border": "#ebecf0",
     "peekViewEditor.background": "#ebecf0",
