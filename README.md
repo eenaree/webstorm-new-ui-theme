@@ -52,6 +52,7 @@ For example, I've applied italic styles to built-in objects, types and interface
 "editor.inlayHints.padding": true,
 "editor.bracketPairColorization.enabled": false,
 "editor.guides.bracketPairs": "active",
+"color-highlight.markRuler": false,
 ```
 
 - Changing the color of the indented space uses [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) extension.
