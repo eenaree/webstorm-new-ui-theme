@@ -197,6 +197,15 @@
     "editorHoverWidget.border": "#57595b",
     "editorHoverWidget.highlightForeground": "#589df6",
 
+    "editorOverviewRuler.wordHighlightForeground": "#036b13",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#b56277",
+    "editorOverviewRuler.modifiedForeground": "#43698d",
+    "editorOverviewRuler.addedForeground": "#447152",
+    "editorOverviewRuler.deletedForeground": "#656e76",
+    "editorOverviewRuler.errorForeground": "#9e2927",
+    "editorOverviewRuler.warningForeground": "#be9117",
+    "editorOverviewRuler.infoForeground": "#3592c4",
+
     "diffEditor.insertedTextBackground": "#385570",
     "diffEditor.insertedLineBackground": "#303c47",
     "diffEditorGutter.insertedLineBackground": "#303c47",
