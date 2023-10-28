@@ -235,10 +235,10 @@
     "peekViewTitleLabel.foreground": "#000000",
     "peekViewTitleDescription.foreground": "#818594",
 
-    "merge.currentHeaderBackground": "#447152",
-    "merge.currentContentBackground": "#294436",
-    "merge.incomingHeaderBackground": "#43698d",
-    "merge.incomingContentBackground": "#385570",
+    "merge.currentHeaderBackground": "#e5f6e5",
+    "merge.currentContentBackground": "#bee6be",
+    "merge.incomingHeaderBackground": "#e6effa",
+    "merge.incomingContentBackground": "#c2d8f2",
 
     "textLink.foreground": "#315fbd",
     "textLink.activeForeground": "#3474f0",
