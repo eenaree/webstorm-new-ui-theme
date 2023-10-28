@@ -106,6 +106,12 @@
     "statusBar.noFolderForeground": "#6c707e",
     "statusBarItem.activeBackground": "#dfe1e5",
     "statusBarItem.hoverBackground": "#dfe1e5",
+    "statusBarItem.errorBackground": "#cf5b56",
+    "statusBarItem.errorHoverBackground": "#df5151",
+    "statusBarItem.errorHoverForeground": "#000000",
+    "statusBarItem.warningBackground": "#f1bf56",
+    "statusBarItem.warningHoverBackground": "#fcbc3d",
+    "statusBarItem.warningHoverForeground": "#000000",
 
     "notificationCenterHeader.foreground": "#1d1d1d",
     "notificationCenterHeader.background": "#f7f8fa",

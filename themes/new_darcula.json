@@ -99,6 +99,10 @@
     "statusBar.debuggingBackground": "#3c3f41",
     "statusBar.debuggingBorder": "#464646",
     "statusBar.debuggingForeground": "#bbbbbb",
+    "statusBarItem.errorBackground": "#9e2927",
+    "statusBarItem.errorHoverForeground": "#ffffff",
+    "statusBarItem.warningBackground": "#be9117",
+    "statusBarItem.warningHoverForeground": "#ffffff",
 
     "notificationCenterHeader.foreground": "#bbbbbb",
     "notificationCenterHeader.background": "#3c3f41",
