@@ -239,6 +239,10 @@
     "merge.currentContentBackground": "#bee6be",
     "merge.incomingHeaderBackground": "#e6effa",
     "merge.incomingContentBackground": "#c2d8f2",
+    "editorOverviewRuler.currentContentForeground": "#aadfa9",
+    "editorOverviewRuler.incomingContentForeground": "#b6d2f2",
+    "mergeEditor.change.background": "#ffeeeb",
+    "mergeEditor.change.word.background": "#ffd5cc",
 
     "textLink.foreground": "#315fbd",
     "textLink.activeForeground": "#3474f0",
