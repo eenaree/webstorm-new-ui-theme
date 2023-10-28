@@ -2,7 +2,21 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.4.0 (2023-10-29)
+
+### Minor
+
+- Improve merge conflict decorations ([0c8ba13](https://github.com/eenaree/webstorm-new-ui-theme/commit/0c8ba13cccf8d6200501e55a4b9f7f5b10b5f978))
+- Improve the visibility of text and overview ruler in diff editor ([09611e9](https://github.com/eenaree/webstorm-new-ui-theme/commit/09611e9a68a716422da67af4780e6302a7ddb901))
+- Improve overview ruler marker colors ([51a5f2d](https://github.com/eenaree/webstorm-new-ui-theme/commit/51a5f2d80cb0dd305a0a2b538b6758dda37901e4))
+
+### Patch
+
+- Fix wrong inline merge-conflicts background in Light theme ([26f04d2](https://github.com/eenaree/webstorm-new-ui-theme/commit/26f04d2e8102a12b49dbc45a8485b28a1041a0fa))
+
 ## 2.3.2 (2023-10-28)
+
+### Patch
 
 - Replace statusbar error and warning item colors with Webstorm status indicator colors ([13555fc](https://github.com/eenaree/webstorm-new-ui-theme/commit/13555fc5eba44e46efdaa22bc90a0b4873b4a3a6))
 
