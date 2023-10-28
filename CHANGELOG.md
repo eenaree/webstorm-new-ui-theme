@@ -2,6 +2,10 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.3.2 (2023-10-28)
+
+- Replace statusbar error and warning item colors with Webstorm status indicator colors ([13555fc](https://github.com/eenaree/webstorm-new-ui-theme/commit/13555fc5eba44e46efdaa22bc90a0b4873b4a3a6))
+
 ## 2.3.1 (2023-10-26)
 
 ### Patch
