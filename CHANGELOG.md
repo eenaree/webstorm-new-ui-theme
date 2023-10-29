@@ -2,6 +2,13 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.4.1 (2023-10-30)
+
+### Patch
+
+- Adjust selected menubar background color in new dark theme ([98c9f15](https://github.com/eenaree/webstorm-new-ui-theme/commit/98c9f15291eef63e3240293fdb7688fc2d23f41a))
+- Fix opaque scroll bar so that the color of overview ruler is not obscured ([0f53fd8](https://github.com/eenaree/webstorm-new-ui-theme/commit/0f53fd8872f10df986014608c6eb5da66fbfb752))
+
 ## 2.4.0 (2023-10-29)
 
 ### Minor
