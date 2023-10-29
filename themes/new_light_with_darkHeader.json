@@ -157,9 +157,9 @@
     "breadcrumb.activeSelectionForeground": "#000000",
     "breadcrumbPicker.background": "#ffffff",
 
-    "scrollbarSlider.activeBackground": "#8e8e8e",
-    "scrollbarSlider.background": "#c6c6c6",
-    "scrollbarSlider.hoverBackground": "#7f7f7f",
+    "scrollbarSlider.activeBackground": "#7f7f7f99",
+    "scrollbarSlider.background": "#c9c9c999",
+    "scrollbarSlider.hoverBackground": "#7f7f7f99",
 
     "debugIcon.breakpointForeground": "#e45765",
 
