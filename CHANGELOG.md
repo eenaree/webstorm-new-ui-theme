@@ -2,6 +2,14 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.5.0 (2023-10-31)
+
+### Minor
+
+- Improve peek view using colors from WebStorm Usages and Find ([96a29a0](https://github.com/eenaree/webstorm-new-ui-theme/commit/96a29a0eea4da9a55be381ac7030ceee288972a2))
+- Match the colors of the overview ruler and minimap ([0581074](https://github.com/eenaree/webstorm-new-ui-theme/commit/0581074edd506b54703ae2b86c29335aa484b63e))
+- Make search-related colors more accurate ([c97b68c](https://github.com/eenaree/webstorm-new-ui-theme/commit/c97b68ca8baba75e41e89856813b1fabeb0f60fa))
+
 ## 2.4.1 (2023-10-30)
 
 ### Patch
