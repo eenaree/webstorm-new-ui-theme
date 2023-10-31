@@ -240,8 +240,8 @@
     "diffEditorOverview.removedForeground": "#c8c8c8",
 
     "peekView.border": "#ebecf0",
-    "peekViewEditor.background": "#ebecf0",
-    "peekViewEditor.matchHighlightBackground": "#fee6b1",
+    "peekViewEditor.background": "#ffffff",
+    "peekViewEditor.matchHighlightBackground": "#ecebfb",
     "peekViewResult.background": "#f7f8fa",
     "peekViewResult.fileForeground": "#000000",
     "peekViewResult.lineForeground": "#080808",
