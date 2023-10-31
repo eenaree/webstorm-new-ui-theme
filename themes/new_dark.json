@@ -186,11 +186,14 @@
     "editor.findMatchHighlightBorder": "#155e70",
     "editor.findRangeHighlightBackground": "#1e4684",
     "editor.lineHighlightBackground": "#26282d",
-    "editor.selectionBackground": "#134388",
+    "editor.selectionBackground": "#214283",
     "editor.inactiveSelectionBackground": "#1e4684",
-    "editor.selectionHighlightBackground": "#155221",
+    "editor.selectionHighlightBackground": "#2d543f",
     "editor.wordHighlightBackground": "#373b39",
     "editor.wordHighlightStrongBackground": "#402f33",
+
+    "searchEditor.findMatchBackground": "#2d543f",
+    "searchEditor.findMatchBorder": "#2d543f",
 
     "editorWidget.background": "#2b2d30",
     "editorWidget.foreground": "#dfe1e5",

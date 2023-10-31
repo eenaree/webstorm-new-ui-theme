@@ -181,8 +181,8 @@
     "editorLightBulbAutoFix.foreground": "#e35252",
     "editorLink.activeForeground": "#3474f0",
 
-    "editor.findMatchBackground": "#ccccff",
-    "editor.findMatchBorder": "#ecebfb",
+    "editor.findMatchBackground": "#a6d2ff",
+    "editor.findMatchBorder": "#000000",
     "editor.findMatchHighlightBackground": "#fee6b1",
     "editor.findMatchHighlightBorder": "#fee6b1",
     "editor.findRangeHighlightBackground": "#fcf4d4",
@@ -191,6 +191,9 @@
     "editor.selectionHighlightBackground": "#e6f8e9",
     "editor.wordHighlightBackground": "#ecebfb",
     "editor.wordHighlightStrongBackground": "#fce8f4",
+
+    "searchEditor.findMatchBackground": "#ecebfb",
+    "searchEditor.findMatchBorder": "#ecebfb",
 
     "editorWidget.background": "#ffffff",
     "editorWidget.foreground": "#000000",

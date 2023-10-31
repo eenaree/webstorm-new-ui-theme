@@ -186,6 +186,9 @@
     "editor.wordHighlightBackground": "#344134",
     "editor.wordHighlightStrongBackground": "#40332b",
 
+    "searchEditor.findMatchBackground": "#155221",
+    "searchEditor.findMatchBorder": "#155221",
+
     "editorWidget.background": "#3c3f41",
     "editorWidget.foreground": "#bbbbbb",
     "editorWidget.border": "#323232",
