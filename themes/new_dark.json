@@ -203,6 +203,8 @@
     "editorSuggestWidget.highlightForeground": "#538af6",
     "editorHoverWidget.highlightForeground": "#538af6",
 
+    "editorOverviewRuler.findMatchForeground": "#0c667c",
+    "editorOverviewRuler.selectionHighlightForeground": "#5b786a",
     "editorOverviewRuler.wordHighlightForeground": "#5b786a",
     "editorOverviewRuler.wordHighlightStrongForeground": "#bb6287",
     "editorOverviewRuler.modifiedForeground": "#43698d",
@@ -211,6 +213,18 @@
     "editorOverviewRuler.errorForeground": "#d64d5b",
     "editorOverviewRuler.warningForeground": "#c29e49",
     "editorOverviewRuler.infoForeground": "#3574f0",
+
+    "minimap.findMatchHighlight": "#0c667c",
+    "minimap.selectionOccurrenceHighlight": "#5b786a",
+    "minimap.errorHighlight": "#d64d5b",
+    "minimap.warningHighlight": "#c29e49",
+    "minimap.infoHighlight": "#3574f0",
+    "minimapSlider.background": "#3f4043a6",
+    "minimapSlider.hoverBackground": "#535455a6",
+    "minimapSlider.activeBackground": "#535455a6",
+    "minimapGutter.addedBackground": "#437151",
+    "minimapGutter.modifiedBackground": "#43698d",
+    "minimapGutter.deletedBackground": "#656e76",
 
     "diffEditor.insertedTextBackground": "#385570",
     "diffEditor.insertedLineBackground": "#283541",
