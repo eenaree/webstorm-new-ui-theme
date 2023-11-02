@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.5.1 (2023-11-02)
+
+### Patch
+
+- Fix overlap between symbols highlighted in search results and symbols during read-access ([1e0a944](https://github.com/eenaree/webstorm-new-ui-theme/commit/1e0a94451b36646936dee18fe9901c98a010a50b))
+
 ## 2.5.0 (2023-10-31)
 
 ### Minor
