@@ -196,8 +196,8 @@
     "editor.wordHighlightBackground": "#ecebfb",
     "editor.wordHighlightStrongBackground": "#fce8f4",
 
-    "searchEditor.findMatchBackground": "#ecebfb",
-    "searchEditor.findMatchBorder": "#ecebfb",
+    "searchEditor.findMatchBackground": "#ccccff",
+    "searchEditor.findMatchBorder": "#ccccff",
 
     "editorWidget.background": "#ffffff",
     "editorWidget.foreground": "#000000",
@@ -241,7 +241,7 @@
 
     "peekView.border": "#ebecf0",
     "peekViewEditor.background": "#ffffff",
-    "peekViewEditor.matchHighlightBackground": "#ecebfb",
+    "peekViewEditor.matchHighlightBackground": "#ccccff",
     "peekViewResult.background": "#f7f8fa",
     "peekViewResult.fileForeground": "#000000",
     "peekViewResult.lineForeground": "#080808",
