@@ -20,6 +20,8 @@
     "commandCenter.activeBackground": "#4d4e59",
     "commandCenter.activeBorder": "#4d4e59",
 
+    "pickerGroup.border": "#ebecf0",
+    "pickerGroup.foreground": "#315fbd",
     "quickInputList.focusBackground": "#d5e1ff",
 
     "list.activeSelectionBackground": "#d5e1ff",
