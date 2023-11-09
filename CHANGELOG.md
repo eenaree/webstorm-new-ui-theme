@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.5.2 (2023-11-09)
+
+### Patch Changes
+
+- adjust quick picker color for grouping borders and grouping labels ([d4aa2ac](https://github.com/eenaree/webstorm-new-ui-theme/commit/d4aa2ac6e5c63565f2be42a919aed9d9af7f4954))
+
 ## 2.5.1 (2023-11-02)
 
 ### Patch
