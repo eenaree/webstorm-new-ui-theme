@@ -455,7 +455,15 @@
       }
     },
     {
-      "scope": ["support.class.component"],
+      "scope": [
+        "support.class.component",
+        "entity.name.tag.template.html.vue",
+        "entity.name.tag.script.html.vue",
+        "entity.name.tag.style.html.vue",
+        "source.vue meta.tag.other.unrecognized.html.derivative entity.name.tag",
+        "source.vue meta.tag.custom.start.html entity.name.tag",
+        "source.vue meta.tag.custom.end.html entity.name.tag"
+      ],
       "settings": {
         "foreground": "#2ebaa3"
       }
