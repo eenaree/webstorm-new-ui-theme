@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.6.0 (2023-11-25)
+
+### Minor Changes
+
+- Add highlighting to vue component's three types of top-level block and custom tag in dark theme ([ef9f66f](https://github.com/eenaree/webstorm-new-ui-theme/commit/ef9f66f1cba3fab940388643edc249a8cd7c1e6f))
+
 ## 2.5.2 (2023-11-09)
 
 ### Patch Changes
