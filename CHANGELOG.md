@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.6.1 (2023-11-26)
+
+### Patch Changes
+
+- Fix transparent split border within the New Dark theme's terminal ([ffbe5a3](https://github.com/eenaree/webstorm-new-ui-theme/commit/ffbe5a386995bdc8317a119a0df8bf4ca422b305))
+
 ## 2.6.0 (2023-11-25)
 
 ### Minor Changes
