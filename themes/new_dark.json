@@ -85,6 +85,7 @@
 
     "terminal.background": "#1e1f22",
     "terminal.foreground": "#bcbec3",
+    "terminal.border": "#2b2d30",
 
     "dropdown.border": "#4f5156",
     "dropdown.background": "#393b40",
