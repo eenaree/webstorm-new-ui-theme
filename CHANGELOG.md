@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.6.2 (2023-12-01)
+
+### Patch Changes
+
+- Fix issue [#6](https://github.com/eenaree/webstorm-new-ui-theme/issues/6) - the color of objects accessed by dot notation when semantic highlighting is not applied
+
 ## 2.6.1 (2023-11-26)
 
 ### Patch Changes
