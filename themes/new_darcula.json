@@ -391,6 +391,7 @@
       "scope": [
         "entity.name.type.module",
         "entity.name.constant",
+        "variable.other.object",
         "variable.other.property",
         "variable.other.object.property",
         "variable.other.constant.property",
@@ -481,7 +482,6 @@
         "meta.tag.attributes",
         "meta.at-rule.for keyword.control.operator",
         "variable.interpolation",
-        "variable.other.object",
         "entity.name.type",
         "entity.name.function.tagged-template",
         "constant.language.import-export-all",
