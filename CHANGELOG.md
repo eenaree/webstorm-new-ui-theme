@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.6.3 (2024-04-05)
+
+### Patch Changes
+
+- Fix issue [#8](https://github.com/eenaree/webstorm-new-ui-theme/issues/8) - add transparency to wordHighlight, selectedHighlight background
+
 ## 2.6.2 (2023-12-01)
 
 ### Patch Changes
