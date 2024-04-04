@@ -190,9 +190,9 @@
     "editor.findRangeHighlightBackground": "#fcf4d4",
     "editor.lineHighlightBackground": "#f4f8fe",
     "editor.selectionBackground": "#a6d2ff",
-    "editor.selectionHighlightBackground": "#e6f8e9",
-    "editor.wordHighlightBackground": "#ecebfb",
-    "editor.wordHighlightStrongBackground": "#fce8f4",
+    "editor.selectionHighlightBackground": "#aadfa973",
+    "editor.wordHighlightBackground": "#ccccff59",
+    "editor.wordHighlightStrongBackground": "#ffcdff59",
 
     "searchEditor.findMatchBackground": "#ccccff",
     "searchEditor.findMatchBorder": "#ccccff",

@@ -184,9 +184,9 @@
     "editor.lineHighlightBackground": "#323232",
     "editor.selectionBackground": "#214283",
     "editor.inactiveSelectionBackground": "#1e4684",
-    "editor.selectionHighlightBackground": "#155221",
-    "editor.wordHighlightBackground": "#344134",
-    "editor.wordHighlightStrongBackground": "#40332b",
+    "editor.selectionHighlightBackground": "#155221b3",
+    "editor.wordHighlightBackground": "#37523980",
+    "editor.wordHighlightStrongBackground": "#532b2e66",
 
     "searchEditor.findMatchBackground": "#155221",
     "searchEditor.findMatchBorder": "#155221",
