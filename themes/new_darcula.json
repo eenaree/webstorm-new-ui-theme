@@ -480,6 +480,7 @@
     },
     {
       "scope": [
+        "meta.brace.round",
         "meta.tag.attributes",
         "meta.at-rule.for keyword.control.operator",
         "variable.interpolation",

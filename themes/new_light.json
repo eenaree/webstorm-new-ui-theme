@@ -484,6 +484,7 @@
     },
     {
       "scope": [
+        "meta.brace.round",
         "meta.at-rule.media keyword.control.operator",
         "meta.at-rule.for keyword.control.operator",
         "meta.tag.metadata.doctype.html entity.name.tag",
