@@ -483,7 +483,7 @@
     },
     {
       "scope": [
-        "meta.brace.round",
+        "meta.embedded",
         "meta.tag.attributes",
         "meta.at-rule.for keyword.control.operator",
         "variable.interpolation",
