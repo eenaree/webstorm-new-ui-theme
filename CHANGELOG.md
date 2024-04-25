@@ -2,6 +2,10 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.6.5 (2024-04-25)
+
+- Fix issue when using brace in template literal ([8896559](https://github.com/eenaree/webstorm-new-ui-theme/commit/88965594bbe5205fc1f2b649ce597dce4badc6a9))
+
 ## 2.6.4 (2024-04-10)
 
 ### Patch Changes
