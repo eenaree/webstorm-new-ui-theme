@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.7.0 (2024-04-26)
+
+### Minor Changes
+
+- In Light theme, make difference between native html tag and component ([5f5dc40](https://github.com/eenaree/webstorm-new-ui-theme/commit/5f5dc40cdf5f9eb250ca4b68a74cf329dd1576c2))
+
 ## 2.6.6 (2024-04-26)
 
 ### Patch Changes
