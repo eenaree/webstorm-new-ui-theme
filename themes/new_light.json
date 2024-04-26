@@ -555,6 +555,12 @@
       }
     },
     {
+      "scope": ["support.class.component"],
+      "settings": {
+        "foreground": "#ad6339"
+      }
+    },
+    {
       "scope": ["invalid"],
       "settings": {
         "foreground": "#f50000"
