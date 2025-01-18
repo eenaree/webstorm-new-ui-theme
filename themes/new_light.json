@@ -431,6 +431,7 @@
         "string",
         "markup.inline.raw",
         "markup.quote",
+        "punctuation.definition.string",
         "punctuation.definition.metadata.markdown",
         "punctuation.separator.key-value.html",
         "property.value.dotenv",

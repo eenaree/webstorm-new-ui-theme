@@ -427,6 +427,7 @@
     {
       "scope": [
         "string",
+        "punctuation.definition.string",
         "punctuation.definition.metadata.markdown",
         "markup.inline.raw",
         "markup.quote",
