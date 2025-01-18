@@ -2,6 +2,13 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.7.2 (2025-01-19)
+
+### Patch Changes
+
+- Fix color of vue html attributes shorthand syntax ([077bb83](https://github.com/eenaree/webstorm-new-ui-theme/commit/077bb8394dcaf4cabf5e7fb0396578cf3e1180f4))
+- Fix color of definition string's quotes ([9ff5ab9](https://github.com/eenaree/webstorm-new-ui-theme/commit/9ff5ab9c1a7a684cf73163b024ab78c2cadb6a64))
+
 ## 2.7.1 (2025-01-18)
 
 ### Patch Changes
