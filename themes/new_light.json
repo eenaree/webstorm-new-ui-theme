@@ -325,7 +325,7 @@
       "fontStyle": "italic"
     },
     "method": {
-      "foreground": "#7a7a43"
+      "foreground": "#914C07"
     }
   },
   "tokenColors": [
@@ -339,7 +339,7 @@
     {
       "scope": ["storage.type.class.jsdoc"],
       "settings": {
-        "foreground": "#8c8c8c",
+        "foreground": "#080808",
         "fontStyle": "italic underline"
       }
     },
