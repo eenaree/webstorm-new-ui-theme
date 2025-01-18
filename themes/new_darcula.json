@@ -511,6 +511,7 @@
     },
     {
       "scope": [
+        "source.vue punctuation.attribute-shorthand",
         "meta.property-list variable.css",
         "entity.other.attribute-name",
         "support.type.property-name",
