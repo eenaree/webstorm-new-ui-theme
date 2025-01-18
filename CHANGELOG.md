@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.7.1 (2025-01-18)
+
+### Patch Changes
+
+- In Light theme, fix color of method and jsdoc tags ([f67c600](https://github.com/eenaree/webstorm-new-ui-theme/commit/f67c600e912072c16f85d90b56e33dab0124e7b6))
+
 ## 2.7.0 (2024-04-26)
 
 ### Minor Changes
