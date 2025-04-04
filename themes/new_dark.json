@@ -613,7 +613,8 @@
         "source.css entity.name.function",
         "source.css support.type.map.key",
         "source.css support.constant.language-range",
-        "source.css support.function"
+        "source.css support.function",
+        "text.html.derivative entity.name.tag.template.html.vue"
       ],
       "settings": {
         "foreground": "#d5b778"
