@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.7.3 (2025-04-04)
+
+### Patch Changes
+
+- Fix issue [#16](https://github.com/eenaree/webstorm-new-ui-theme/issues/16) - fix the color of inner template tag
+
 ## 2.7.2 (2025-01-19)
 
 ### Patch Changes
