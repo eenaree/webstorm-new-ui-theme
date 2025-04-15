@@ -331,6 +331,7 @@
       "foreground": "#914C07"
     },
     "method.static": {
+      "foreground": "#006279",
       "fontStyle": "italic"
     }
   },
