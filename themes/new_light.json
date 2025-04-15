@@ -324,8 +324,14 @@
     "property.defaultLibrary": {
       "fontStyle": "italic"
     },
+    "property.static": {
+      "fontStyle": "italic"
+    },
     "method": {
       "foreground": "#914C07"
+    },
+    "method.static": {
+      "fontStyle": "italic"
     }
   },
   "tokenColors": [
