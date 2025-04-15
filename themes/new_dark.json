@@ -495,6 +495,7 @@
         "source.yaml string.unquoted",
         "source.yaml constant.language.boolean",
         "punctuation.accessor",
+        "keyword.generator.asterisk",
         "keyword.operator",
         "keyword.other.unit.percentage",
         "keyword.other.back-reference.regexp",

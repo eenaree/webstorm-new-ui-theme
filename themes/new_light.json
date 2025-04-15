@@ -498,6 +498,7 @@
         "string variable",
         "source.yaml string.unquoted",
         "source.yaml constant.language.boolean",
+        "keyword.generator.asterisk",
         "keyword.operator",
         "keyword.other.unit.percentage",
         "keyword.other.back-reference.regexp",
