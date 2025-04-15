@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.7.4 (2025-04-15)
+
+### Patch Changes
+
+- Fix color of generator function asterisk ([6ba9ebb](https://github.com/eenaree/webstorm-new-ui-theme/commit/6ba9ebb74f8b7d6d287e8f1e3fe3f0a2ece5b8dd))
+
 ## 2.7.3 (2025-04-04)
 
 ### Patch Changes
