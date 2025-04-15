@@ -2,6 +2,13 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.7.5 (2025-04-15)
+
+### Patch Changes
+
+- Apply italic style to static field and method ([0e35692](https://github.com/eenaree/webstorm-new-ui-theme/commit/0e35692a78c23348c380be4d722bc84fd5da375b))
+- Fix color of static method in Light theme ([f13cdc8](https://github.com/eenaree/webstorm-new-ui-theme/commit/f13cdc8fa06b8604d15a2a68da8cd6bcc9246f98))
+
 ## 2.7.4 (2025-04-15)
 
 ### Patch Changes
