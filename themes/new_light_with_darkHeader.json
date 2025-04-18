@@ -317,6 +317,9 @@
       "fontStyle": "underline"
     },
     "class": {
+      "foreground": "#0133b3"
+    },
+    "class.declaration": {
       "foreground": "#080808"
     },
     "class.defaultLibrary": {

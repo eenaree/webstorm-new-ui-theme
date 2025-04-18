@@ -311,6 +311,9 @@
       "fontStyle": "italic"
     },
     "class": {
+      "foreground": "#2ebaa3"
+    },
+    "class.declaration": {
       "foreground": "#bcbec3"
     },
     "class.defaultLibrary": {
