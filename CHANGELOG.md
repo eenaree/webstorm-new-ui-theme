@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.8.0 (2025-04-18)
+
+### Patch Changes
+
+- Fix issue [#16](https://github.com/eenaree/webstorm-new-ui-theme/issues/16) - fix color of imported component in Vue
+
 ## 2.7.5 (2025-04-15)
 
 ### Patch Changes
