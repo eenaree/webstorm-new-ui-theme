@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.8.1 (2025-04-19)
+
+### Patch Changes
+
+- Remove differentiation for supported property ([0f266e4](https://github.com/eenaree/webstorm-new-ui-theme/commit/0f266e4bd589a5a5da2cc93bda994856049aeccf))
+
 ## 2.8.0 (2025-04-18)
 
 ### Patch Changes
