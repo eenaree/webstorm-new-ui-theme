@@ -328,9 +328,6 @@
     "property": {
       "foreground": "#861194"
     },
-    "property.defaultLibrary": {
-      "fontStyle": "italic"
-    },
     "property.static": {
       "fontStyle": "italic"
     },
