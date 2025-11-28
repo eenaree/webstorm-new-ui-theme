@@ -2,6 +2,12 @@
 
 All notable changes to the "webstorm-new-ui" extension will be documented in this file.
 
+## 2.8.2 (2025-11-28)
+
+### Patch Changes
+
+- Fix status bar default hover color and prominent item color ([d741b01](https://github.com/eenaree/webstorm-new-ui-theme/commit/d741b01083038c78c560a33fdf746f46fba117e1))
+
 ## 2.8.1 (2025-04-19)
 
 ### Patch Changes
