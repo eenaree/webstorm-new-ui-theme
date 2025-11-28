@@ -101,6 +101,13 @@
     "statusBar.debuggingBackground": "#3c3f41",
     "statusBar.debuggingBorder": "#464646",
     "statusBar.debuggingForeground": "#bbbbbb",
+    "statusBarItem.activeBackground": "#4c5051",
+    "statusBarItem.hoverForeground": "#ffffff",
+    "statusBarItem.hoverBackground": "#4c5051",
+    "statusBarItem.prominentForeground": "#bbbbbb",
+    "statusBarItem.prominentBackground": "#6a6a6c",
+    "statusBarItem.prominentHoverForeground": "#ffffff",
+    "statusBarItem.prominentHoverBackground": "#555555",
     "statusBarItem.errorBackground": "#9e2927",
     "statusBarItem.errorHoverForeground": "#ffffff",
     "statusBarItem.warningBackground": "#be9117",
@@ -293,7 +300,7 @@
       "fontStyle": "italic"
     },
     "parameter": {
-      "foreground": "#bcbec3",
+      "foreground": "#bcbec3"
     },
     "typeParameter": {
       "foreground": "#507874"
